@@ -1,0 +1,8 @@
+# 2021-01-15: l, a, e, i, j, n, v
+	* Added: lanai, lave, levee, lineal, vanillin, villanelle
+	* Removed: alanine, aline, anil, aniline, elal, elven, lenin, levi, nile
+
+# 2021-01-16: k, a, e, g, i, n, p
+	* Added: geeking, kappa, kepi, kinging, kinking, kippa, kneeing, nankeen, peke
+	* Removed: kina, pekan, peking
+
