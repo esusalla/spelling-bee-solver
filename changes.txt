@@ -1,8 +1,72 @@
-# 2021-01-15: l, a, e, i, j, n, v
-	* Added: lanai, lave, levee, lineal, vanillin, villanelle
-	* Removed: alanine, aline, anil, aniline, elal, elven, lenin, levi, nile
+# 2021-02-09: k, c, e, h, i, n, t
+	* Added: tiki
+	* Removed: checkin, chink, kent
+
+# 2021-02-06: o, a, e, h, m, n, p
+	* Added: homophone, mammon, nope, oomph, opah, peon, phenom, phono, pome, pompano, pompom, pone, poppa
+	* Removed: apnoea, noah, phonon
+
+# 2021-02-04: t, g, n, o, r, u, w
+	* Added: outro, outworn, rotgut, roto, runout, toro, tort, wonton, woot, wort
+	* Removed: toronto
+
+# 2021-02-03: h, a, e, l, p, t, y
+	* Added: aleph, halal, heeltap, heptathlete, telehealth, telepath
+	* Removed: haha
+
+# 2021-02-01: o, a, g, i, l, n, y
+	* Added: aioli, analog, goggly, gonna, googling, googol, goony, lingo, llano, login, logy, lollygag, lollygagging, longan, nonagon, nonagonal, nonillion, oniony, onlay, oolong, yogini
+	* Removed: agio, angola, angolan, gaol, ingoing, ionian, lino, lyon, ngoing, nogging, oology
+
+# 2021-01-31: o, b, h, i, l, r, y
+	* Added: blobby, boho, loblolly, olio, roil, roily, yoohoo
+	* Removed: bobby, holily, lolly, ohio, yoyo
+
+# 2021-01-30: h, c, d, e, i, k, l
+	* Added: chichi, chicle, cichlid, cliched, hick, hied, lech, leeched
+	* Removed: ceilidh, cheeked, chilli, delhi, lichee, lichi
+
+# 2021-01-29: t, e, g, h, n, o, u
+	* Added: nonet, outgone, outgun, outthought, tong, toon, tote, tutee, unguent, unthought, untune
+	* Removed: goethe, huguenot, nett, teehee, togo
+
+# 2021-01-28: c, a, d, g, i, n, r
+	* Added: acing, arcadian, cadging, canid, canna, cirri, crania, indica, indicia, narc, niacin, ricin, ricing
+	* Removed: accra, acidrain, arcading, cain, canaan, canada, canadian, cran, inca
+
+# 2021-01-27: e, a, b, g, m, t, y
+	* Added: agate, ameba, amebae, begem, eggy, mage, matey, meme, meta, mete, yegg
+	* Removed: beamy, byebye, eatage
+
+# 2021-01-25: m, a, d, i, l, o, r
+	* Added: armload, armor, armorial, diorama, dolma, dorm, mailroom, malodor, mamma, marm, moil, moll, momma, moola, ramada
+	* Removed: adam, amir, madrid, mammalia, maori, mara, maria, marl, miami, milord
+
+# 2021-01-24: b, a, e, l, n, o, p
+	* Added: appealable, baba, beanball, bloop, boba, boll, bolo, boob, ebon, lobo, nabob, noob, openable, peelable, plebe, poblano
+	* Removed: abbe, abel, abele, baal, ballpen, bole, bonn, elbe, lebanon
+
+# 2021-01-22: i, c, e, n, o, t, v
+	* Added: civet, cocci, cootie, evictee, innie, invitee, nite, ovine, tinct, tine, tontine, toonie
+	* Removed: cine, toitoi, venice, vino
+
+# 2021-01-21: i, a, d, l, p, t, u
+	* Added: alit, atilt, pita, pitapat, plaudit, puli, tali, tilapia, tutti, uplit, uptilt
+	* Removed: adit, attila, iliad, itll, lilliput, paidup, putti
+
+# 2021-01-19: i, a, b, c, f, k, l
+	* Added: abaci, acai, backfill, biff, bilk, flail, iliac, kickball, laic, laical
+	* Removed: alibaba, alkalic, bali, calif, facia, kalif, klick
+
+# 2021-01-17: t, a, c, h, l, o, p
+	* Added: captcha, catalpa, catcall, catchall, coact, coopt, coot, hath, hatha, holt, phat, plat, potlatch, tach, taco, tapa
+	* Removed: hotchpotch, loth, plato, potch, taal
 
 # 2021-01-16: k, a, e, g, i, n, p
 	* Added: geeking, kappa, kepi, kinging, kinking, kippa, kneeing, nankeen, peke
 	* Removed: kina, pekan, peking
+
+# 2021-01-15: l, a, e, i, j, n, v
+	* Added: lanai, lave, levee, lineal, vanillin, villanelle
+	* Removed: alanine, aline, anil, aniline, elal, elven, lenin, levi, nile
 
