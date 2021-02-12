@@ -47,10 +47,15 @@ def update_words(guesses, answers, words):
 def write_changes(date, letters, added, removed):
     with open(f"{BASE_PATH}/changes.txt", "r+") as changefile:
         previous = changefile.read()
+        header = f"# {date}: {', '.join(letters)}\n"
+
+        # check if changes have already been written for day
+        if previous.startswith(header):
+            return
 
         # Insert most recent changes at top of file
         changefile.seek(0, 0)
-        changefile.write(f"# {date}: {', '.join(letters)}\n")
+        changefile.write(header)
 
         words_added = ', '.join(sorted(list(added)))
         changefile.write(f"\t* Added: {words_added}\n")

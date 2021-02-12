@@ -1,3 +1,11 @@
+# 2021-02-11: i, c, d, e, f, n, o
+	* Added: coffined, coif, coifed, coiffed, deice, deiced, deicide, dino, ecocide, edenic, fifed, foodie, indie
+	* Removed: finn, iodide, odin
+
+# 2021-02-10: c, a, g, i, l, n, w
+	* Added: calla
+	* Removed: anglican, gallic
+
 # 2021-02-09: k, c, e, h, i, n, t
 	* Added: tiki
 	* Removed: checkin, chink, kent
@@ -69,4 +77,6 @@
 # 2021-01-15: l, a, e, i, j, n, v
 	* Added: lanai, lave, levee, lineal, vanillin, villanelle
 	* Removed: alanine, aline, anil, aniline, elal, elven, lenin, levi, nile
+
+# Unable to retrieve game data
 

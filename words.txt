@@ -1188,7 +1188,6 @@ angler
 anglers
 angles
 anglian
-anglican
 angling
 angolans
 angora
@@ -4706,6 +4705,7 @@ calico
 caliper
 caliph
 call
+calla
 callable
 called
 caller
@@ -6236,6 +6236,7 @@ coffees
 coffer
 coffers
 coffin
+coffined
 coffins
 cogency
 cogent
@@ -6258,6 +6259,9 @@ cohesion
 cohesive
 cohort
 cohorts
+coif
+coifed
+coiffed
 coiffure
 coil
 coiled
@@ -8423,6 +8427,9 @@ degrees
 dehorn
 dehydrate
 dehydrated
+deice
+deiced
+deicide
 deified
 deifies
 deify
@@ -9102,6 +9109,7 @@ dining
 dinky
 dinner
 dinners
+dino
 dint
 dints
 diocese
@@ -10261,6 +10269,7 @@ eclipse
 eclipsed
 eclipses
 ecliptic
+ecocide
 ecological
 ecology
 economic
@@ -10284,6 +10293,7 @@ eddy
 eddying
 edema
 eden
+edenic
 edge
 edged
 edgeless
@@ -12192,6 +12202,7 @@ fiery
 fiesta
 fiestas
 fife
+fifed
 fifes
 fifteen
 fifteenth
@@ -12315,7 +12326,6 @@ finite
 finitely
 finiteness
 finland
-finn
 finned
 finnish
 fins
@@ -12853,6 +12863,7 @@ font
 fontanel
 fonts
 food
+foodie
 foodless
 foods
 foodstuff
@@ -13546,7 +13557,6 @@ galleries
 gallery
 galley
 galleys
-gallic
 galling
 gallium
 gallivanting
@@ -16702,6 +16712,7 @@ indicted
 indicting
 indictment
 indicts
+indie
 indifference
 indifferent
 indignant
@@ -17351,7 +17362,6 @@ involves
 involving
 inward
 inwards
-iodide
 iodine
 ionic
 ionisation
@@ -22144,7 +22154,6 @@ oddments
 oddness
 odds
 odes
-odin
 odious
 odiously
 odiousness
