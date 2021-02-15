@@ -1,3 +1,11 @@
+# 2021-02-13: b, e, f, i, l, n, o
+	* Added: blin, blini, boffo, libelee, nonbelief
+	* Removed: boffin, bonnie
+
+# 2021-02-12: a, e, g, h, l, n, o
+	* Added: agelong, enhalo, hogan, naan, nana
+	* Removed: aegean, anna, genoa, ghana, hallo, halon
+
 # 2021-02-11: i, c, d, e, f, n, o
 	* Added: coffined, coif, coifed, coiffed, deice, deiced, deicide, dino, ecocide, edenic, fifed, foodie, indie
 	* Removed: finn, iodide, odin
@@ -77,6 +85,4 @@
 # 2021-01-15: l, a, e, i, j, n, v
 	* Added: lanai, lave, levee, lineal, vanillin, villanelle
 	* Removed: alanine, aline, anil, aniline, elal, elven, lenin, levi, nile
-
-# Unable to retrieve game data
 

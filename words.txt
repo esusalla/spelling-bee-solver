@@ -510,7 +510,6 @@ advocacy
 advocate
 advocated
 adze
-aegean
 aegina
 aegis
 aeolian
@@ -619,6 +618,7 @@ ageing
 ageings
 ageism
 ageless
+agelong
 agencies
 agency
 agenda
@@ -1222,7 +1222,6 @@ ankle
 ankles
 anklet
 anklets
-anna
 annal
 annals
 anneal
@@ -3448,6 +3447,7 @@ blighting
 blights
 blimp
 blimps
+blin
 blind
 blinded
 blinder
@@ -3457,6 +3457,7 @@ blindingly
 blindly
 blindness
 blinds
+blini
 blink
 blinked
 blinker
@@ -3647,8 +3648,8 @@ bodywork
 boer
 boers
 boerwar
-boffin
 boffins
+boffo
 bogey
 bogeymen
 bogeys
@@ -3730,7 +3731,6 @@ boniest
 bonnet
 bonneted
 bonnets
-bonnie
 bonniest
 bonny
 bonobo
@@ -10839,6 +10839,7 @@ engulf
 engulfed
 engulfing
 engulfs
+enhalo
 enhance
 enhanceable
 enhanced
@@ -13824,7 +13825,6 @@ genitive
 genitives
 genius
 geniuses
-genoa
 genocide
 genome
 genomes
@@ -13892,7 +13892,6 @@ getter
 getting
 geyser
 geysers
-ghana
 ghanian
 ghastly
 gherkin
@@ -14975,7 +14974,6 @@ hall
 hallelujah
 hallmark
 hallmarks
-hallo
 hallow
 hallowed
 hallows
@@ -14985,7 +14983,6 @@ hallways
 halo
 haloed
 halogen
-halon
 halons
 halt
 halted
@@ -15771,6 +15768,7 @@ hocuspocus
 hoed
 hoeing
 hoes
+hogan
 hogg
 hogged
 hogger
@@ -18789,6 +18787,7 @@ liars
 libation
 libel
 libeled
+libelee
 libeler
 libelled
 libeller
@@ -21359,6 +21358,7 @@ myth
 mythic
 mythology
 myths
+naan
 nabbed
 nabob
 nabs
@@ -21396,6 +21396,7 @@ namibia
 namibian
 naming
 namings
+nana
 nankeen
 nannies
 nanny
@@ -21813,6 +21814,7 @@ nominee
 nominees
 nonagon
 nonagonal
+nonbelief
 nonchalance
 nonchalant
 none

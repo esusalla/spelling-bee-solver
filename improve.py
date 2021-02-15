@@ -45,8 +45,8 @@ def update_words(guesses, answers, words):
 
 
 def write_changes(date, letters, added, removed):
-    with open(f"{BASE_PATH}/changes.txt", "r+") as changefile:
-        previous = changefile.read()
+    with open(f"{BASE_PATH}/changes.txt", "r+") as outfile:
+        previous = outfile.read()
         header = f"# {date}: {', '.join(letters)}\n"
 
         # check if changes have already been written for day
@@ -54,16 +54,16 @@ def write_changes(date, letters, added, removed):
             return
 
         # Insert most recent changes at top of file
-        changefile.seek(0, 0)
-        changefile.write(header)
+        outfile.seek(0, 0)
+        outfile.write(header)
 
         words_added = ', '.join(sorted(list(added)))
-        changefile.write(f"\t* Added: {words_added}\n")
+        outfile.write(f"\t* Added: {words_added}\n")
 
         words_removed = ', '.join(sorted(list(removed)))
-        changefile.write(f"\t* Removed: {words_removed}\n\n")
+        outfile.write(f"\t* Removed: {words_removed}\n\n")
 
-        changefile.write(previous)
+        outfile.write(previous)
 
 
 if __name__ == "__main__":
@@ -73,8 +73,14 @@ if __name__ == "__main__":
     try:
         game_data = get_game_data()
     except:
-        with open(f"{BASE_PATH}/changes.txt", "a") as outfile:
+        print("BAAD")
+        with open(f"{BASE_PATH}/changes.txt", "r+") as outfile:
+            previous = outfile.read()
+            outfile.seek(0, 0)
+
             outfile.write("# Unable to retrieve game data\n\n")
+            outfile.write(previous)
+
         sys.exit(1)
 
     with open(f"{BASE_PATH}/words.txt") as infile:
