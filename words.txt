@@ -2221,7 +2221,6 @@ awning
 awnings
 awoke
 awoken
-awol
 awry
 axed
 axehead
@@ -2991,6 +2990,7 @@ believing
 belike
 belittle
 belittled
+belittlement
 belittles
 belittling
 bell
@@ -3001,6 +3001,7 @@ belled
 belles
 bellicose
 bellies
+bellmen
 bellow
 bellowed
 bellows
@@ -3016,6 +3017,7 @@ below
 belt
 belted
 belting
+beltline
 belts
 belying
 bemoan
@@ -7525,6 +7527,7 @@ crouched
 crouches
 croup
 croupier
+crouton
 croutons
 crow
 crowbar
@@ -7692,6 +7695,7 @@ cupping
 cuprous
 cups
 curable
+curacao
 curare
 curate
 curated
@@ -7871,7 +7875,6 @@ dactylic
 dactyls
 daddies
 daddy
-dado
 dads
 daemon
 daemons
@@ -7883,7 +7886,6 @@ dafter
 daftest
 daftness
 dagama
-dagga
 dagger
 daggers
 dahlia
@@ -7961,6 +7963,7 @@ dandruff
 dandy
 dane
 danes
+dang
 danger
 dangers
 dangle
@@ -7975,6 +7978,7 @@ dante
 danube
 danzig
 dapper
+dapping
 dapple
 dappled
 dapples
@@ -8049,6 +8053,7 @@ daybreak
 daycare
 daydream
 daydreams
+daylit
 daylong
 dayold
 days
@@ -8085,9 +8090,9 @@ deadlock
 deadlocked
 deadly
 deadness
-deadon
 deadpan
 deadsea
+deadwood
 deaf
 deafen
 deafened
@@ -8937,7 +8942,6 @@ diamante
 diameter
 diamond
 diamonds
-diana
 diapason
 diaper
 diapers
@@ -8969,7 +8973,6 @@ diction
 dictions
 dictum
 didactic
-didnt
 died
 diehard
 diehards
@@ -9102,6 +9105,7 @@ dinghy
 dingier
 dingiest
 dinginess
+dinging
 dingle
 dingo
 dingy
@@ -9600,6 +9604,7 @@ donating
 donation
 donations
 done
+donee
 dong
 donga
 donjuan
@@ -9612,6 +9617,7 @@ donors
 dons
 dont
 donut
+doodad
 doodle
 doodled
 doodles
@@ -9713,7 +9719,6 @@ downed
 downfall
 downhill
 downing
-downland
 downlands
 download
 downloaded
@@ -10239,6 +10244,7 @@ eatery
 eating
 eatings
 eats
+eave
 eaves
 ebbed
 ebbing
@@ -10891,6 +10897,7 @@ enormous
 enough
 enounced
 enounces
+enow
 enquire
 enquired
 enquirer
@@ -11678,7 +11685,6 @@ eyelashes
 eyeless
 eyelet
 eyelets
-eyelevel
 eyelid
 eyelids
 eyelike
@@ -13741,6 +13747,7 @@ gaunter
 gauntlet
 gauntly
 gauze
+gavage
 gave
 gavel
 gavial
@@ -16367,7 +16374,6 @@ illusions
 illusive
 illusory
 illustrious
-ilmenite
 image
 imaged
 imagery
@@ -16692,9 +16698,6 @@ indexer
 indexers
 indexes
 indexing
-india
-indian
-indiana
 indians
 indica
 indicant
@@ -17130,6 +17133,7 @@ integers
 integrate
 integrating
 integrity
+intel
 intellect
 intellects
 intelligence
@@ -17481,7 +17485,6 @@ italians
 italic
 italicise
 italics
-italy
 itch
 itched
 itches
@@ -17507,6 +17510,7 @@ itinerants
 itineraries
 itinerary
 itself
+itty
 ivies
 ivories
 ivory
@@ -18423,7 +18427,6 @@ latter
 lattice
 latticed
 lattices
-latvia
 latvian
 laud
 laudable
@@ -18446,6 +18449,7 @@ laureate
 laurel
 laurels
 lava
+lavage
 lavas
 lavatorial
 lavatory
@@ -18695,7 +18699,6 @@ lentil
 lentils
 lento
 leonardo
-leone
 leopard
 leotard
 leper
@@ -18749,7 +18752,6 @@ levelheaded
 levelled
 leveller
 levelling
-levelly
 levels
 lever
 leverage
@@ -18942,6 +18944,7 @@ limiters
 limiting
 limitless
 limits
+limn
 limo
 limousin
 limp
@@ -19120,6 +19123,7 @@ livery
 lives
 livewire
 livid
+lividity
 lividly
 living
 livings
@@ -19268,7 +19272,6 @@ lollipop
 lollipops
 lollygag
 lollygagging
-london
 londoner
 lone
 lonelier
@@ -19409,6 +19412,8 @@ lovers
 loves
 loving
 lovingly
+lowdown
+lowed
 lower
 lowered
 lowers
@@ -20266,6 +20271,7 @@ menorah
 menswear
 mental
 mentally
+mentee
 menthol
 mention
 mentioned
@@ -21362,6 +21368,7 @@ naan
 nabbed
 nabob
 nabs
+nada
 nadir
 nagasaki
 nagged
@@ -21586,6 +21593,7 @@ neighing
 neither
 nematode
 nemesis
+nene
 neon
 neonatal
 neonate
@@ -21728,6 +21736,7 @@ nihilism
 nihilist
 nihilistic
 nils
+nimbi
 nimble
 nimbleness
 nimbly
@@ -21775,10 +21784,8 @@ nobly
 nobodies
 nobody
 nocturne
-nodal
 nodded
 nodding
-noddle
 noddy
 node
 nodes
@@ -21835,6 +21842,7 @@ nonviolence
 nonviolent
 noob
 noodle
+noodled
 noodles
 nook
 nooks
@@ -21991,6 +21999,7 @@ nursery
 nurserymen
 nurses
 nursing
+nurturant
 nurture
 nurtured
 nurtures
@@ -22155,6 +22164,8 @@ oddment
 oddments
 oddness
 odds
+odea
+odeon
 odes
 odious
 odiously
@@ -22251,6 +22262,7 @@ oldie
 oldish
 oldmaids
 oleander
+oleo
 olio
 olive
 oliveoil
@@ -22978,6 +22990,7 @@ panda
 pandas
 pander
 panders
+pandit
 pandora
 pane
 paned
@@ -25836,7 +25849,6 @@ ranches
 ranching
 rancid
 rancorous
-rancour
 rand
 random
 rands
@@ -33203,6 +33215,7 @@ tellingly
 tells
 telltale
 telly
+telnet
 temerity
 temper
 tempera
@@ -33669,6 +33682,7 @@ ticklish
 ticks
 tics
 tidal
+tidally
 tidbit
 tidbits
 tiddlers
@@ -33740,6 +33754,7 @@ timeframe
 timekeeper
 timeless
 timelessness
+timeline
 timeliness
 timely
 timeout
@@ -34095,6 +34110,7 @@ tottered
 tottering
 totters
 totting
+toucan
 toucans
 touch
 touche
@@ -34592,7 +34608,6 @@ tswana
 tswanas
 tuareg
 tuaregs
-tuatara
 tuba
 tubas
 tubby
@@ -35623,7 +35638,10 @@ utterly
 uttermost
 utters
 uturns
+uvea
+uveal
 uvula
+uvulae
 uvular
 vacancies
 vacancy
@@ -36078,6 +36096,7 @@ viva
 vivacious
 vivacity
 vivid
+vividity
 vividly
 vividness
 vivified
@@ -36165,6 +36184,7 @@ vulpine
 vulture
 vultures
 vulva
+vulval
 vying
 wackier
 wacky
@@ -36597,7 +36617,6 @@ welldeveloped
 welldressed
 wellearned
 welled
-wellendowed
 wellfed
 wellhead
 welling
@@ -37061,7 +37080,6 @@ wizard
 wizardry
 wizards
 wizened
-woad
 wobble
 wobbled
 wobbler
@@ -37069,7 +37087,6 @@ wobbles
 wobblier
 wobbling
 wobbly
-wodan
 wodge
 woebegone
 woeful
@@ -37078,7 +37095,6 @@ woes
 woke
 woken
 woks
-wold
 wolds
 wolf
 wolfed
@@ -37133,7 +37149,7 @@ woofer
 woofers
 wooing
 wool
-woollen
+woolen
 woollens
 woollier
 woollies

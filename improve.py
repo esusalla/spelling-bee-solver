@@ -73,7 +73,6 @@ if __name__ == "__main__":
     try:
         game_data = get_game_data()
     except:
-        print("BAAD")
         with open(f"{BASE_PATH}/changes.txt", "r+") as outfile:
             previous = outfile.read()
             outfile.seek(0, 0)

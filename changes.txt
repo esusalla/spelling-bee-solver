@@ -1,3 +1,27 @@
+# 2021-02-20: o, a, d, e, l, n, w
+	* Added: deadwood, donee, doodad, enow, lowdown, lowed, noodled, odea, odeon, oleo, woolen
+	* Removed: awol, dado, deadon, downland, leone, london, nodal, noddle, wellendowed, woad, wodan, wold, woollen
+
+# 2021-02-18: d, a, g, i, n, p, t
+	* Added: dang, dapping, dinging, nada, pandit
+	* Removed: dagga, diana, didnt, india, indian, indiana
+
+# 2021-02-17: t, a, d, i, l, v, y
+	* Added: daylit, itty, lividity, tidally, vividity
+	* Removed: italy, latvia
+
+# 2021-02-16: n, b, e, i, l, m, t
+	* Added: 
+	* Removed: 
+
+# 2021-02-15: v, a, e, g, l, u, y
+	* Added: eave, gavage, lavage, uvea, uveal, uvulae, vulval
+	* Removed: eyelevel, levelly
+
+# 2021-02-14: u, a, c, n, o, r, t
+	* Added: crouton, curacao, nurturant, toucan
+	* Removed: rancour, tuatara
+
 # 2021-02-13: b, e, f, i, l, n, o
 	* Added: blin, blini, boffo, libelee, nonbelief
 	* Removed: boffin, bonnie
