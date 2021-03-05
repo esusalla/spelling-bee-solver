@@ -1,3 +1,31 @@
+# 2021-03-04: a, e, f, h, l, t, u
+	* Added: fellate, feta, flauta, haute, hula, latte, luau, luteal, tattletale, ululate
+	* Removed: alfatah, etal, hatful, leat, utah
+
+# 2021-03-03: f, a, e, g, l, o, p
+	* Added: falafel, falloff, fella, leafage, loofa, pelf
+	* Removed: logoff
+
+# 2021-03-02: e, f, g, l, n, u, v
+	* Added: gelee, luge, unlevel, venule
+	* Removed: glenn, negev
+
+# 2021-03-01: c, a, i, n, o, t, z
+	* Added: canonization, cantina, catatonia, ciao, coati
+	* Removed: anionic, atonic, canonic, cationic, cocain, coon, tincan
+
+# 2021-02-28: i, a, j, m, n, r, u
+	* Added: anima, inurn, jinn, jinni, marinara, ninja, umami
+	* Removed: iran, iranian, rumania
+
+# 2021-02-24: h, a, c, i, l, n, r
+	* Added: chai, challah, chia, chica, chinchilla
+	* Removed: chacha, chiral
+
+# 2021-02-23: p, a, i, r, t, u, y
+	* Added: apparat, irrupt, partita, patty, rattrap, tarp, tippy, trippy, uppity, yappy
+	* Removed: aupair, papua, putput
+
 # 2021-02-20: o, a, d, e, l, n, w
 	* Added: deadwood, donee, doodad, enow, lowdown, lowed, noodled, odea, odeon, oleo, woolen
 	* Removed: awol, dado, deadon, downland, leone, london, nodal, noddle, wellendowed, woad, wodan, wold, woollen
@@ -9,10 +37,6 @@
 # 2021-02-17: t, a, d, i, l, v, y
 	* Added: daylit, itty, lividity, tidally, vividity
 	* Removed: italy, latvia
-
-# 2021-02-16: n, b, e, i, l, m, t
-	* Added: 
-	* Removed: 
 
 # 2021-02-15: v, a, e, g, l, u, y
 	* Added: eave, gavage, lavage, uvea, uveal, uvulae, vulval

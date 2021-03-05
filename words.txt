@@ -808,7 +808,6 @@ alertness
 alerts
 ales
 alfalfa
-alfatah
 alga
 algae
 algal
@@ -1198,6 +1197,7 @@ angry
 angst
 anguish
 angular
+anima
 animal
 animals
 animate
@@ -1212,7 +1212,6 @@ animist
 animists
 animus
 anion
-anionic
 anions
 anise
 aniseed
@@ -1421,6 +1420,7 @@ appalled
 appalling
 appallingly
 appals
+apparat
 apparatus
 apparatuses
 apparel
@@ -1972,7 +1972,6 @@ atone
 atoned
 atonement
 atones
-atonic
 atoning
 atop
 atrial
@@ -2083,7 +2082,6 @@ aunt
 auntie
 aunties
 aunts
-aupair
 aupairs
 aura
 aural
@@ -4825,11 +4823,11 @@ canoed
 canoeing
 canoes
 canon
-canonic
 canonical
 canonically
 canonisation
 canonise
+canonization
 canonry
 canons
 canopener
@@ -4845,6 +4843,7 @@ canter
 cantered
 canters
 canticle
+cantina
 canton
 cantons
 cantor
@@ -5121,6 +5120,7 @@ catapults
 cataract
 cataracts
 catarrh
+catatonia
 catatonic
 catcall
 catcalls
@@ -5152,7 +5152,6 @@ catheters
 cathode
 catholic
 cation
-cationic
 cations
 catlike
 catnap
@@ -5305,7 +5304,6 @@ cesspool
 cesspools
 cetacean
 ceylon
-chacha
 chad
 chafe
 chafed
@@ -5316,6 +5314,7 @@ chaffinch
 chaffing
 chafing
 chagrin
+chai
 chain
 chained
 chaining
@@ -5335,6 +5334,7 @@ chalk
 chalked
 chalks
 chalky
+challah
 challenge
 chamber
 chamfer
@@ -5540,7 +5540,9 @@ chewiest
 chewing
 chews
 chewy
+chia
 chic
+chica
 chicago
 chicane
 chichi
@@ -5594,6 +5596,7 @@ chimp
 chimps
 chin
 china
+chinchilla
 chinese
 chinked
 chinking
@@ -5607,7 +5610,6 @@ chipped
 chipping
 chippings
 chips
-chiral
 chirp
 chirped
 chirping
@@ -5725,6 +5727,7 @@ chute
 chutes
 chutney
 chutzpah
+ciao
 cicada
 cicadas
 cicero
@@ -6136,6 +6139,7 @@ coasters
 coasts
 coat
 coated
+coati
 coating
 coats
 coauthor
@@ -6160,7 +6164,6 @@ cobwebbed
 cobwebby
 cobwebs
 coca
-cocain
 cocaine
 cocci
 cochlea
@@ -6926,7 +6929,6 @@ coolest
 cooling
 coolness
 cools
-coon
 coons
 coop
 cooped
@@ -11259,7 +11261,6 @@ estimates
 estonia
 estuaries
 estuary
-etal
 etcetera
 etch
 etched
@@ -11784,6 +11785,7 @@ fakers
 fakery
 fakes
 faking
+falafel
 falcon
 falcons
 fall
@@ -11796,6 +11798,7 @@ fallguy
 fallibility
 fallible
 falling
+falloff
 fallopian
 fallout
 fallow
@@ -12032,6 +12035,8 @@ felicity
 feline
 felines
 fell
+fella
+fellate
 fellatio
 felled
 feller
@@ -12113,6 +12118,7 @@ festivity
 festoon
 festooned
 festoons
+feta
 fetal
 fetch
 fetched
@@ -12539,6 +12545,7 @@ flatulent
 flatus
 flaunt
 flaunts
+flauta
 flautist
 flavour
 flaw
@@ -13788,6 +13795,7 @@ gelatin
 gelatine
 gelding
 geldings
+gelee
 gelignite
 gelled
 gels
@@ -14068,7 +14076,6 @@ gleeful
 gleefully
 gleefulness
 glen
-glenn
 glens
 glia
 glib
@@ -15226,7 +15233,6 @@ hateful
 hater
 haters
 hates
-hatful
 hath
 hatha
 hating
@@ -15258,6 +15264,7 @@ haunt
 haunted
 haunting
 haunts
+haute
 hauteur
 havana
 have
@@ -16073,6 +16080,7 @@ hugeness
 hugged
 hugging
 hugs
+hula
 hulk
 hulking
 hulks
@@ -17283,6 +17291,7 @@ inundated
 inundation
 inure
 inured
+inurn
 invade
 invaded
 invader
@@ -17373,8 +17382,6 @@ ionising
 ions
 iota
 iotas
-iran
-iranian
 iranians
 iraq
 iraqi
@@ -17432,6 +17439,7 @@ irritates
 irritating
 irritation
 irritations
+irrupt
 irrupted
 irruption
 isis
@@ -17684,6 +17692,8 @@ jingo
 jingoism
 jinked
 jinks
+jinn
+jinni
 jinx
 jinxed
 jinxes
@@ -18423,6 +18433,7 @@ latino
 latitude
 latitudinal
 latrine
+latte
 latter
 lattice
 latticed
@@ -18515,6 +18526,7 @@ leadfree
 leading
 leads
 leaf
+leafage
 leafed
 leafier
 leafiest
@@ -18570,7 +18582,6 @@ leashed
 leashes
 leasing
 least
-leat
 leather
 leathers
 leathery
@@ -19251,7 +19262,6 @@ logistic
 logistics
 logjam
 logo
-logoff
 logos
 logs
 logy
@@ -19294,6 +19304,7 @@ longings
 longish
 longlost
 longs
+loofa
 look
 lookalike
 lookalikes
@@ -19437,6 +19448,7 @@ loyalty
 lozenge
 lozenges
 luanda
+luau
 lubber
 lubbers
 lucid
@@ -19450,6 +19462,7 @@ luckless
 lucky
 lucre
 ludo
+luge
 luggage
 lugged
 lugging
@@ -19538,6 +19551,7 @@ lustrous
 lusts
 lusty
 lute
+luteal
 lutes
 luther
 luxor
@@ -19881,6 +19895,7 @@ margins
 marijuana
 marina
 marinade
+marinara
 marinas
 marinate
 marine
@@ -21571,7 +21586,6 @@ negates
 negating
 negation
 negative
-negev
 neglect
 neglected
 neglecting
@@ -21751,6 +21765,7 @@ nineties
 ninetieth
 ninety
 nineveh
+ninja
 ninny
 ninth
 ninths
@@ -23049,7 +23064,6 @@ papilla
 papist
 pappy
 paprika
-papua
 papule
 papyri
 papyrus
@@ -23190,6 +23204,7 @@ parties
 parting
 partisan
 partisans
+partita
 partition
 partly
 partner
@@ -23311,6 +23326,7 @@ patterns
 patters
 patties
 patting
+patty
 paucity
 paul
 paunch
@@ -23468,6 +23484,7 @@ pegging
 pegs
 peke
 pele
+pelf
 pelican
 pellet
 pellets
@@ -25464,7 +25481,6 @@ pustular
 pustule
 pustules
 putative
-putput
 putrefy
 putrid
 putridity
@@ -25974,6 +25990,7 @@ rattled
 rattler
 rattles
 rattling
+rattrap
 ratty
 raucous
 ravage
@@ -27962,7 +27979,6 @@ rulers
 rules
 ruling
 rulings
-rumania
 rumba
 rumbas
 rumble
@@ -33008,6 +33024,7 @@ tarn
 tarnish
 tarns
 tarot
+tarp
 tarragon
 tarred
 tarried
@@ -33056,6 +33073,7 @@ tasty
 tattered
 tatters
 tattle
+tattletale
 tattoo
 tattooed
 tattooing
@@ -33768,7 +33786,6 @@ timidity
 timidly
 timing
 timings
-tincan
 tinct
 tincture
 tinder
@@ -33820,6 +33837,7 @@ tipper
 tipping
 tipple
 tippling
+tippy
 tips
 tipster
 tipsters
@@ -34480,6 +34498,7 @@ tripoli
 tripped
 trippers
 tripping
+trippy
 trips
 triptych
 tripwire
@@ -34892,6 +34911,8 @@ ultimatum
 ultimatums
 ultimo
 ultra
+ululate
+umami
 umbilical
 umbilicus
 umbra
@@ -35249,6 +35270,7 @@ unleash
 unleashes
 unleavened
 unless
+unlevel
 unlike
 unlikeliness
 unlikely
@@ -35518,6 +35540,7 @@ upper
 uppercase
 uppercut
 uppers
+uppity
 uprate
 uprated
 upright
@@ -35612,7 +35635,6 @@ usurped
 usurper
 usurping
 usury
-utah
 utensil
 utensils
 uteri
@@ -35854,6 +35876,7 @@ venturer
 ventures
 venue
 venues
+venule
 venus
 veranda
 verandah
@@ -37345,6 +37368,7 @@ yankee
 yankees
 yanks
 yapping
+yappy
 yaps
 yard
 yardage
