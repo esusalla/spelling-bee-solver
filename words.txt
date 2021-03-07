@@ -755,6 +755,7 @@ airways
 airy
 aisle
 aisles
+aitch
 aitches
 ajar
 akimbo
@@ -4752,6 +4753,7 @@ camera
 cameraman
 cameramen
 cameras
+cami
 camomile
 camp
 campaign
@@ -5620,6 +5622,7 @@ chiseled
 chiselled
 chisels
 chit
+chitchat
 chits
 chivalric
 chives
@@ -7404,7 +7407,6 @@ crickets
 cried
 crier
 cries
-crim
 crime
 crimea
 crimes
@@ -15010,7 +15012,6 @@ halved
 halves
 halving
 hamburg
-hamitic
 hamlet
 hamlets
 hammer
@@ -19874,6 +19875,7 @@ mappings
 maps
 maputo
 maquettes
+maraca
 marathon
 marauders
 marble
@@ -19892,6 +19894,7 @@ margin
 marginal
 marginalia
 margins
+mariachi
 marijuana
 marina
 marinade
@@ -20037,6 +20040,7 @@ masts
 matador
 matadors
 match
+matcha
 matched
 matcher
 matches
@@ -33040,7 +33044,6 @@ tart
 tartan
 tartans
 tartar
-tartaric
 tartly
 tartness
 tartrate

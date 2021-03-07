@@ -1,3 +1,7 @@
+# 2021-03-05: c, a, h, i, m, r, t
+	* Added: aitch, cami, chitchat, maraca, mariachi, matcha
+	* Removed: crim, hamitic, tartaric
+
 # 2021-03-04: a, e, f, h, l, t, u
 	* Added: fellate, feta, flauta, haute, hula, latte, luau, luteal, tattletale, ululate
 	* Removed: alfatah, etal, hatful, leat, utah
