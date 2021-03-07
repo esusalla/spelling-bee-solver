@@ -17970,7 +17970,6 @@ khaki
 khalif
 khan
 khans
-khoikhoi
 khoisan
 kibbutz
 kick
@@ -22169,6 +22168,7 @@ octavo
 octet
 octets
 october
+octopi
 octopus
 octopuses
 ocular
@@ -23829,11 +23829,13 @@ phosphoric
 phosphorous
 phosphors
 phosphorus
+photic
 photo
 photocopy
 photograph
 photon
 photons
+photopic
 photoreceptor
 photos
 photosphere
@@ -23883,6 +23885,7 @@ picnic
 picnicked
 picnicking
 picnics
+picot
 picture
 pidgin
 piebald
@@ -33701,6 +33704,7 @@ tickles
 tickling
 ticklish
 ticks
+ticktock
 tics
 tidal
 tidally

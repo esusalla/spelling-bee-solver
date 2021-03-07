@@ -1,3 +1,7 @@
+# 2021-03-06: i, c, h, k, o, p, t
+	* Added: octopi, photic, photopic, picot, ticktock
+	* Removed: khoikhoi
+
 # 2021-03-05: c, a, h, i, m, r, t
 	* Added: aitch, cami, chitchat, maraca, mariachi, matcha
 	* Removed: crim, hamitic, tartaric
