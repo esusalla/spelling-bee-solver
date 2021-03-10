@@ -1,3 +1,15 @@
+# 2021-03-09: d, a, m, n, o, r, t
+	* Added: ardor, dotard, monad, mondo, monodrama, nonrandom, odor, rondo, rood, tandoor
+	* Removed: dorado, trad
+
+# 2021-03-08: p, a, e, g, h, i, n
+	* Added: epee, neap, ninepin, panini, peahen, peeing, peen, penne, pepping, pigging, pigpen, pinging
+	* Removed: panga, pipping
+
+# 2021-03-07: n, a, d, h, i, o, t
+	* Added: attaint, natant, tahini
+	* Removed: aint, dont, hadnt, haitian, hanoi, nato
+
 # 2021-03-06: i, c, h, k, o, p, t
 	* Added: octopi, photic, photopic, picot, ticktock
 	* Removed: khoikhoi

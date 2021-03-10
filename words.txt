@@ -699,7 +699,6 @@ aimless
 aimlessly
 aimlessness
 aims
-aint
 aioli
 airbase
 airborne
@@ -1594,6 +1593,7 @@ arcs
 arctic
 ardency
 ardent
+ardor
 ardour
 arduous
 area
@@ -1999,6 +1999,7 @@ attaining
 attainment
 attainments
 attains
+attaint
 attempt
 attempted
 attempts
@@ -9619,7 +9620,6 @@ donning
 donor
 donors
 dons
-dont
 donut
 doodad
 doodle
@@ -9658,7 +9658,6 @@ dopey
 dopier
 doping
 dopy
-dorado
 dorm
 dormant
 dormer
@@ -9677,6 +9676,7 @@ dosing
 dossier
 dossiers
 dotage
+dotard
 dote
 doted
 dotes
@@ -11069,6 +11069,7 @@ enzymes
 eons
 eosin
 epaulettes
+epee
 ephemera
 ephemeral
 ephemeris
@@ -14931,7 +14932,6 @@ hacksaw
 haddock
 haddocks
 hades
-hadnt
 hadron
 hadrons
 haematoma
@@ -14973,7 +14973,6 @@ hairspray
 hairsprays
 hairy
 haiti
-haitian
 hake
 hakea
 halal
@@ -15087,7 +15086,6 @@ hankered
 hankers
 hankie
 hankies
-hanoi
 hanover
 hansard
 hansom
@@ -20895,12 +20893,14 @@ momentum
 momma
 moms
 monaco
+monad
 monadic
 monalisa
 monarch
 monaural
 monday
 mondays
+mondo
 money
 moneyed
 moneyless
@@ -20927,6 +20927,7 @@ monochrome
 monocle
 monocled
 monoclonal
+monodrama
 monogamous
 monogamy
 monogram
@@ -21473,6 +21474,7 @@ nastily
 nastiness
 nasty
 natal
+natant
 nation
 national
 nationalisation
@@ -21487,7 +21489,6 @@ nations
 native
 natives
 nativity
-nato
 nattering
 natural
 naturally
@@ -21523,6 +21524,7 @@ naziism
 nazis
 nazism
 ndebele
+neap
 near
 nearby
 neared
@@ -21761,6 +21763,7 @@ nimbus
 nincompoop
 nine
 ninefold
+ninepin
 nines
 nineteen
 nineteenth
@@ -21851,6 +21854,7 @@ nonevent
 nonexistent
 nonillion
 nonintervention
+nonrandom
 nonsense
 nonsenses
 nonsmoker
@@ -22192,6 +22196,7 @@ odiousness
 odium
 odiums
 odometer
+odor
 odorous
 odour
 odourless
@@ -23019,7 +23024,6 @@ panelling
 panels
 panes
 pang
-panga
 pangas
 pangolin
 pangs
@@ -23027,6 +23031,7 @@ panic
 panicking
 panicky
 panics
+panini
 panned
 pannier
 panniers
@@ -23392,6 +23397,7 @@ peachy
 peacock
 peacocks
 peafowl
+peahen
 peahens
 peak
 peaked
@@ -23454,6 +23460,7 @@ pedimented
 pedlar
 pedlars
 pedology
+peeing
 peek
 peeked
 peeking
@@ -23466,6 +23473,7 @@ peelers
 peeling
 peelings
 peels
+peen
 peep
 peeped
 peeper
@@ -23534,6 +23542,7 @@ penname
 pennames
 pennant
 pennants
+penne
 penned
 pennies
 penniless
@@ -23568,6 +23577,7 @@ peppering
 peppermint
 peppers
 peppery
+pepping
 peps
 peptic
 peptide
@@ -23911,11 +23921,13 @@ piffle
 pigeon
 pigeons
 piggery
+pigging
 piggish
 piggy
 piglet
 piglets
 pigment
+pigpen
 pigs
 pigsties
 pigsty
@@ -23978,6 +23990,7 @@ pineapples
 pined
 pines
 ping
+pinging
 pingpong
 pings
 pinhead
@@ -24037,7 +24050,6 @@ pipit
 pipits
 pipped
 pippin
-pipping
 pips
 piquant
 pique
@@ -27771,6 +27783,8 @@ romper
 romping
 romps
 romulus
+rondo
+rood
 roof
 roofed
 roofer
@@ -32869,6 +32883,7 @@ taffeta
 tagged
 tagging
 tags
+tahini
 tahiti
 tahr
 tail
@@ -32952,6 +32967,7 @@ tampered
 tampers
 tandem
 tandems
+tandoor
 tang
 tangelo
 tangent
@@ -34218,7 +34234,6 @@ traction
 tractor
 tractors
 tracts
-trad
 trade
 tradeable
 traded
