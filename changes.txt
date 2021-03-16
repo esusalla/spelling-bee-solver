@@ -1,3 +1,27 @@
+# 2021-03-15: l, e, m, n, o, t, u
+	* Added: molt, mottle, omelet, tulle, unlet
+	* Removed: moult
+
+# 2021-03-14: e, g, h, i, l, n, w
+	* Added: gelling, ghee, heeling, heinie, hieing, liege, newel, weenie, whew, wienie
+	* Removed: gillie, helen, ween
+
+# 2021-03-13: p, e, l, n, o, t, y
+	* Added: lollop, peloton, peony, peppy, peyote, tentpole, tope, typo
+	* Removed: lepton, polony
+
+# 2021-03-12: v, a, b, e, g, l, t
+	* Added: vegetal
+	* Removed: 
+
+# 2021-03-11: l, e, i, p, t, v, x
+	* Added: expellee, lite, plie, tittle
+	* Removed: pele
+
+# 2021-03-10: n, a, b, d, h, k, o
+	* Added: ankh, bandana, bonk, hank, hobnob, koan
+	* Removed: 
+
 # 2021-03-09: d, a, m, n, o, r, t
 	* Added: ardor, dotard, monad, mondo, monodrama, nonrandom, odor, rondo, rood, tandoor
 	* Removed: dorado, trad

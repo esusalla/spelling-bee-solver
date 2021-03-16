@@ -1217,6 +1217,7 @@ anise
 aniseed
 aniseeds
 ankara
+ankh
 ankle
 ankles
 anklet
@@ -2443,6 +2444,7 @@ bandage
 bandaged
 bandages
 bandaging
+bandana
 bandanna
 banded
 bandied
@@ -3730,6 +3732,7 @@ bong
 bongs
 bonier
 boniest
+bonk
 bonnet
 bonneted
 bonnets
@@ -11551,6 +11554,7 @@ expedited
 expedites
 expel
 expelled
+expellee
 expelling
 expels
 expend
@@ -13801,6 +13805,7 @@ geldings
 gelee
 gelignite
 gelled
+gelling
 gels
 gemini
 gemmed
@@ -13912,6 +13917,7 @@ geyser
 geysers
 ghanian
 ghastly
+ghee
 gherkin
 ghetto
 ghost
@@ -13960,7 +13966,6 @@ gilders
 gilding
 gilds
 gill
-gillie
 gills
 gilt
 giltedged
@@ -15081,6 +15086,7 @@ hangman
 hangmen
 hangs
 hangup
+hank
 hanker
 hankered
 hankers
@@ -15450,6 +15456,7 @@ heedlessness
 heeds
 heel
 heeled
+heeling
 heels
 heeltap
 heft
@@ -15466,6 +15473,7 @@ heightened
 heightening
 heightens
 heights
+heinie
 heinous
 heir
 heiress
@@ -15475,7 +15483,6 @@ heirs
 heist
 heists
 held
-helen
 helical
 helices
 helipad
@@ -15625,6 +15632,7 @@ hides
 hiding
 hidings
 hied
+hieing
 hierarch
 hierarchic
 hierarchical
@@ -15771,6 +15779,7 @@ hobby
 hobbyist
 hobbyists
 hobgoblin
+hobnob
 hobo
 hobs
 hock
@@ -18156,6 +18165,7 @@ knuckles
 knuckling
 koala
 koalas
+koan
 kongo
 kookaburra
 koran
@@ -18715,7 +18725,6 @@ lepers
 leprose
 leprosy
 leprous
-lepton
 leptons
 lesbian
 lesbians
@@ -18853,6 +18862,7 @@ lido
 lids
 lied
 lieder
+liege
 lien
 liens
 lies
@@ -19079,6 +19089,7 @@ lists
 litanies
 litany
 litchi
+lite
 literal
 literally
 literals
@@ -19278,6 +19289,7 @@ lollies
 lolling
 lollipop
 lollipops
+lollop
 lollygag
 lollygagging
 londoner
@@ -20884,6 +20896,7 @@ mollifies
 mollify
 mollusc
 molluscs
+molt
 molten
 molts
 moment
@@ -21114,6 +21127,7 @@ motorist
 motorists
 motors
 motorway
+mottle
 mottled
 motto
 mould
@@ -21121,7 +21135,6 @@ moulded
 moulder
 moulds
 mouldy
-moult
 moulted
 moults
 mound
@@ -21675,6 +21688,7 @@ never
 neverending
 newborn
 newcomer
+newel
 newer
 newest
 newfound
@@ -22297,6 +22311,7 @@ olympia
 olympic
 olympus
 omega
+omelet
 omelette
 omelettes
 omen
@@ -23495,13 +23510,13 @@ pegged
 pegging
 pegs
 peke
-pele
 pelf
 pelican
 pellet
 pellets
 pelmet
 pelmets
+peloton
 pelt
 pelted
 pelting
@@ -23565,6 +23580,7 @@ pentathlete
 penury
 peon
 peonies
+peony
 people
 peopled
 peoples
@@ -23578,6 +23594,7 @@ peppermint
 peppers
 peppery
 pepping
+peppy
 peps
 peptic
 peptide
@@ -23784,6 +23801,7 @@ petulant
 petunia
 pews
 pewter
+peyote
 phalanx
 phantasy
 phantom
@@ -24260,6 +24278,7 @@ pleural
 plexus
 pliable
 pliant
+plie
 plied
 pliers
 plies
@@ -24442,7 +24461,6 @@ polo
 poloneck
 polonies
 polonium
-polony
 poltroon
 polycotton
 polycyclic
@@ -33340,6 +33358,7 @@ tentative
 tented
 tenth
 tenths
+tentpole
 tents
 tenuous
 tenure
@@ -33912,6 +33931,7 @@ titter
 tittered
 tittering
 titters
+tittle
 titular
 toad
 toadies
@@ -34061,6 +34081,7 @@ tootle
 topaz
 topazes
 topcoat
+tope
 topiary
 topic
 topical
@@ -34682,6 +34703,7 @@ tugs
 tuition
 tulip
 tulips
+tulle
 tumble
 tumbled
 tumbler
@@ -34901,6 +34923,7 @@ typing
 typings
 typist
 typists
+typo
 typology
 tyrannic
 tyranny
@@ -35292,6 +35315,7 @@ unleash
 unleashes
 unleavened
 unless
+unlet
 unlevel
 unlike
 unlikeliness
@@ -35829,6 +35853,7 @@ veers
 vegan
 vegans
 vegetable
+vegetal
 vegetate
 vegetated
 vegetating
@@ -36610,7 +36635,7 @@ weekends
 weeklies
 weekly
 weeks
-ween
+weenie
 weeny
 weep
 weeper
@@ -36789,6 +36814,7 @@ whetstone
 whetstones
 whetted
 whetting
+whew
 whey
 which
 whichever
@@ -36931,6 +36957,7 @@ wielded
 wielder
 wielding
 wields
+wienie
 wife
 wifeless
 wifely
