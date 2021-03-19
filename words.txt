@@ -70,6 +70,7 @@ abnormal
 aboard
 abode
 abodes
+aboil
 abolish
 abolition
 abomb
@@ -3749,6 +3750,7 @@ booboo
 booby
 boobytrap
 booed
+boogaloo
 boohoo
 booing
 book
@@ -4609,6 +4611,7 @@ byway
 byways
 byword
 cabal
+cabala
 cabals
 cabaret
 cabarets
@@ -4712,6 +4715,7 @@ caliph
 call
 calla
 callable
+callaloo
 called
 caller
 callers
@@ -5511,6 +5515,7 @@ chemical
 chemise
 chemist
 chemists
+chemo
 cheque
 chequer
 chequered
@@ -6018,6 +6023,7 @@ cloaked
 cloakroom
 cloaks
 clobber
+cloche
 clock
 clocked
 clocking
@@ -6269,6 +6275,7 @@ coherent
 coheres
 cohesion
 cohesive
+coho
 cohort
 cohorts
 coif
@@ -6308,7 +6315,6 @@ coldly
 coldness
 colds
 coldwar
-cole
 coleslaw
 colitis
 collaborator
@@ -10028,6 +10034,7 @@ ducts
 dude
 dudes
 dudgeon
+duding
 duds
 duel
 duelled
@@ -10091,6 +10098,7 @@ dunghill
 dunked
 dunking
 dunkirk
+dunning
 duodenal
 duodenum
 duologue
@@ -13747,7 +13755,6 @@ gatherers
 gathers
 gating
 gauche
-gaud
 gaudily
 gaudy
 gauge
@@ -14022,7 +14029,6 @@ glace
 glacial
 glacially
 glacier
-glaciological
 glaciology
 glad
 gladden
@@ -14086,6 +14092,7 @@ gleefulness
 glen
 glens
 glia
+glial
 glib
 glibly
 glibness
@@ -15492,6 +15499,7 @@ helixes
 hell
 hellenic
 hellfire
+hellhole
 hellish
 hellishly
 hello
@@ -15802,6 +15810,7 @@ hoist
 hoisted
 hoisting
 hoists
+hoke
 hold
 holdable
 holdall
@@ -15900,6 +15909,7 @@ honoured
 honouring
 honours
 honshu
+hooch
 hood
 hooded
 hoodlum
@@ -16764,7 +16774,6 @@ inducts
 indulge
 indulged
 indulging
-induna
 inebriate
 inedible
 ineffable
@@ -17296,6 +17305,7 @@ inuit
 inuits
 inundate
 inundated
+inundating
 inundation
 inure
 inured
@@ -18166,7 +18176,9 @@ knuckling
 koala
 koalas
 koan
+kohl
 kongo
+kook
 kookaburra
 koran
 korea
@@ -20866,6 +20878,7 @@ mogul
 moguls
 mohair
 mohairs
+mohel
 moiety
 moil
 moist
@@ -20976,6 +20989,7 @@ monthly
 months
 monument
 monuments
+mooch
 mood
 moodiest
 moodily
@@ -34934,8 +34948,6 @@ tyres
 uboats
 udder
 udders
-uganda
-ugandan
 uglier
 ugliest
 ugliness

@@ -1,3 +1,15 @@
+# 2021-03-18: a, b, c, g, i, l, o
+	* Added: aboil, boogaloo, cabala, callaloo, glial
+	* Removed: glaciological
+
+# 2021-03-17: d, a, g, i, n, t, u
+	* Added: duding, dunning, inundating
+	* Removed: gaud, induna, uganda, ugandan
+
+# 2021-03-16: o, c, e, h, k, l, m
+	* Added: chemo, cloche, coho, hellhole, hoke, hooch, kohl, kook, mohel, mooch
+	* Removed: cole
+
 # 2021-03-15: l, e, m, n, o, t, u
 	* Added: molt, mottle, omelet, tulle, unlet
 	* Removed: moult
