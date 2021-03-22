@@ -1,3 +1,15 @@
+# 2021-03-21: l, e, n, o, p, t, u
+	* Added: letup, loupe, lunette, outpoll, penult, pule, pullet, pullout, tupelo
+	* Removed: pluto
+
+# 2021-03-20: b, a, g, h, i, n, t
+	* Added: abating, baht, bight, binging, binning, gabbing, gibing, gigabit, nabbing
+	* Removed: bing, titbit
+
+# 2021-03-19: n, a, l, o, p, r, u
+	* Added: lunula, nonpolar, ulna, ulnar
+	* Removed: aaron, nounal
+
 # 2021-03-18: a, b, c, g, i, l, o
 	* Added: aboil, boogaloo, cabala, callaloo, glial
 	* Removed: glaciological

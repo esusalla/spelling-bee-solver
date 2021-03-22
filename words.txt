@@ -1,6 +1,5 @@
 aardvark
 aardwolf
-aaron
 abaci
 aback
 abacus
@@ -18,6 +17,7 @@ abate
 abated
 abatement
 abates
+abating
 abattoir
 abattoirs
 abbess
@@ -2351,6 +2351,7 @@ bags
 baguette
 baguettes
 bahamas
+baht
 bail
 bailed
 bailiff
@@ -3197,6 +3198,7 @@ bigben
 bigger
 biggest
 biggish
+bight
 bigness
 bigot
 bigoted
@@ -3256,10 +3258,11 @@ binding
 bindings
 binds
 bindweed
-bing
 binge
+binging
 bingo
 binnacle
+binning
 binodal
 binomial
 bins
@@ -13520,6 +13523,7 @@ fuzziest
 fuzzily
 fuzziness
 fuzzy
+gabbing
 gabble
 gabbled
 gabbles
@@ -13950,6 +13954,7 @@ gibbons
 gibbous
 gibed
 gibes
+gibing
 giblets
 giddier
 giddiest
@@ -13960,6 +13965,7 @@ gift
 gifted
 gifting
 gifts
+gigabit
 gigantic
 gigavolt
 giggle
@@ -18773,6 +18779,7 @@ lettings
 lettish
 lettuce
 lettuces
+letup
 leucine
 leukaemia
 leukemia
@@ -19417,6 +19424,7 @@ lounged
 lounger
 lounges
 lounging
+loupe
 louse
 lousiest
 lousily
@@ -19524,6 +19532,7 @@ luncheon
 lunches
 lunching
 lune
+lunette
 lung
 lunge
 lunged
@@ -19532,6 +19541,7 @@ lungful
 lungfuls
 lunging
 lungs
+lunula
 lupin
 lupines
 lupins
@@ -21412,6 +21422,7 @@ mythology
 myths
 naan
 nabbed
+nabbing
 nabob
 nabs
 nada
@@ -21882,6 +21893,7 @@ nonevent
 nonexistent
 nonillion
 nonintervention
+nonpolar
 nonrandom
 nonsense
 nonsenses
@@ -21976,7 +21988,6 @@ nougats
 nought
 noughts
 noun
-nounal
 nouns
 nourish
 novel
@@ -22658,6 +22669,7 @@ outmost
 outpace
 outplay
 outpointing
+outpoll
 outpost
 outposts
 output
@@ -23591,6 +23603,7 @@ pent
 pentagon
 pentameter
 pentathlete
+penult
 penury
 peon
 peonies
@@ -24368,7 +24381,6 @@ plus
 pluses
 plush
 plushy
-pluto
 plying
 plywood
 poach
@@ -25364,15 +25376,18 @@ pugs
 puissant
 puke
 puking
+pule
 puli
 puling
 pull
 pulled
 puller
+pullet
 pullets
 pulley
 pulleys
 pulling
+pullout
 pullover
 pulls
 pulp
@@ -33922,7 +33937,6 @@ titanic
 titanically
 titanium
 titans
-titbit
 titbits
 titfortat
 tithe
@@ -34760,6 +34774,7 @@ tunnelling
 tunnels
 tunny
 tuns
+tupelo
 tuppence
 tuppences
 turban
@@ -34960,6 +34975,8 @@ ulcer
 ulcerate
 ulcerous
 ulcers
+ulna
+ulnar
 ulster
 ulsters
 ulterior
