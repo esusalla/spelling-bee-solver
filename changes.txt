@@ -1,3 +1,11 @@
+# 2021-03-23: c, a, b, e, i, l, t
+	* Added: cabbie, cattail, celiac, celli, ciabatta, citable, eclat, electee, licit, tacet
+	* Removed: allelic, baltic, celtic
+
+# 2021-03-22: n, a, c, i, m, t, y
+	* Added: catmint, manta, minicam, minyan, natty
+	* Removed: amman
+
 # 2021-03-21: l, e, n, o, p, t, u
 	* Added: letup, loupe, lunette, outpoll, penult, pule, pullet, pullout, tupelo
 	* Removed: pluto

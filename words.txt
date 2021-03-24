@@ -870,7 +870,6 @@ allegri
 allegro
 allele
 alleles
-allelic
 allergen
 allergens
 allergic
@@ -1057,7 +1056,6 @@ amines
 amino
 amiss
 amity
-amman
 ammeter
 ammeters
 ammo
@@ -2432,7 +2430,6 @@ balmy
 baloney
 balsa
 balsam
-baltic
 bambino
 bamboo
 bamboos
@@ -4620,6 +4617,7 @@ cabaret
 cabarets
 cabbage
 cabbages
+cabbie
 cabby
 cabin
 cabinet
@@ -5167,10 +5165,12 @@ catholic
 cation
 cations
 catlike
+catmint
 catnap
 catnip
 cats
 catsuit
+cattail
 cattery
 cattle
 catwalk
@@ -5242,11 +5242,13 @@ celebrate
 celeriac
 celery
 celestial
+celiac
 celibacy
 celibate
 cell
 cellar
 cellars
+celli
 cellist
 cellists
 cello
@@ -5256,7 +5258,6 @@ cellulite
 celluloid
 cellulose
 celsius
-celtic
 cement
 cemented
 cementing
@@ -5742,6 +5743,7 @@ chute
 chutes
 chutney
 chutzpah
+ciabatta
 ciao
 cicada
 cicadas
@@ -5790,6 +5792,7 @@ cirrus
 cist
 cistern
 cisterns
+citable
 citadel
 citation
 citations
@@ -10287,6 +10290,7 @@ echoic
 echoing
 eclair
 eclairs
+eclat
 eclectic
 eclecticism
 eclipse
@@ -10472,6 +10476,7 @@ eldorado
 elect
 electable
 elected
+electee
 electing
 election
 elective
@@ -18870,6 +18875,7 @@ lichen
 lichened
 lichens
 lichis
+licit
 lick
 licked
 licking
@@ -19871,6 +19877,7 @@ manors
 manse
 mansion
 mansions
+manta
 mantel
 mantids
 mantis
@@ -20626,6 +20633,7 @@ minibar
 minibus
 minibuses
 minicab
+minicam
 minify
 minim
 minima
@@ -20679,6 +20687,7 @@ minutest
 minutiae
 minx
 minxes
+minyan
 miosis
 miracle
 mirage
@@ -21528,6 +21537,7 @@ native
 natives
 nativity
 nattering
+natty
 natural
 naturally
 nature
@@ -32895,6 +32905,7 @@ tabulate
 tabulated
 tabulates
 tabulator
+tacet
 tach
 tachyon
 tacit
