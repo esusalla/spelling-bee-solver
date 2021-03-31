@@ -1533,7 +1533,6 @@ aqueduct
 aqueous
 aquifer
 aquiline
-arab
 arabesque
 arabesques
 arabia
@@ -2214,6 +2213,7 @@ awesomeness
 awful
 awfully
 awhile
+awing
 awkward
 awkwardly
 awls
@@ -2438,6 +2438,7 @@ banal
 banality
 banana
 bananas
+banc
 band
 bandage
 bandaged
@@ -2499,6 +2500,7 @@ baptisms
 baptist
 baptists
 barb
+barbacoa
 barbarian
 barbarians
 barbaric
@@ -4218,6 +4220,7 @@ brokers
 broking
 bromide
 bromine
+bronc
 bronchi
 bronco
 bronze
@@ -4613,6 +4616,7 @@ byword
 cabal
 cabala
 cabals
+cabana
 cabaret
 cabarets
 cabbage
@@ -4935,10 +4939,12 @@ caravanning
 caravans
 caravel
 caraway
+carb
 carbide
 carbine
 carbolic
 carbon
+carbonara
 carbonic
 carbons
 carcase
@@ -4992,6 +4998,7 @@ carnal
 carnally
 carnation
 carnival
+carob
 carol
 carols
 carotene
@@ -6685,6 +6692,7 @@ confined
 confines
 confining
 confirm
+confit
 conflict
 confluence
 confocal
@@ -7024,6 +7032,8 @@ corkscrews
 corky
 cormorant
 corn
+cornball
+corncob
 corncrake
 cornea
 corneal
@@ -7683,6 +7693,7 @@ cuffs
 cuing
 cuirass
 cuisine
+cuke
 culdesac
 cull
 culled
@@ -8213,6 +8224,7 @@ decays
 decease
 deceased
 deceases
+decedent
 deceit
 deceits
 deceive
@@ -8873,7 +8885,6 @@ detrital
 detritus
 detroit
 deuce
-deuced
 deuces
 deuterium
 deuteron
@@ -10021,7 +10032,6 @@ dubbing
 dubious
 dublin
 dubs
-duce
 duchess
 duchesses
 duchies
@@ -10358,6 +10368,8 @@ edits
 educate
 educated
 educates
+educe
+educed
 eels
 eelworm
 eelworms
@@ -12361,6 +12373,7 @@ finishing
 finite
 finitely
 finiteness
+finito
 finland
 finned
 finnish
@@ -13929,6 +13942,7 @@ gets
 gettable
 getter
 getting
+gewgaw
 geyser
 geysers
 ghanian
@@ -17306,13 +17320,13 @@ intruder
 intruding
 intrusion
 intrusions
+intuit
 intuited
 intuition
 intuitionist
 intuitions
 intuitive
 intuitiveness
-inuit
 inuits
 inundate
 inundated
@@ -18218,6 +18232,7 @@ labial
 labials
 labile
 labium
+labor
 laboratory
 labour
 labourer
@@ -19706,6 +19721,7 @@ mailed
 mailer
 mailing
 mailings
+maillot
 mailman
 mailmen
 mailroom
@@ -19776,7 +19792,6 @@ mallow
 malls
 malodor
 malt
-malta
 malted
 maltese
 malting
@@ -20101,7 +20116,6 @@ matrix
 matron
 matrons
 mats
-matt
 matte
 matted
 matter
@@ -20584,7 +20598,6 @@ millipede
 millipedes
 millpond
 mills
-milt
 mime
 mimed
 mimes
@@ -20815,6 +20828,7 @@ mitigates
 mitigating
 mitigation
 mitosis
+mitral
 mitre
 mitred
 mitres
@@ -21059,6 +21073,7 @@ morally
 morals
 morass
 morasses
+moratoria
 moratorium
 moray
 morays
@@ -21092,7 +21107,6 @@ morrow
 morse
 morsel
 morsels
-mort
 mortal
 mortally
 mortals
@@ -21901,6 +21915,7 @@ nonet
 nonetheless
 nonevent
 nonexistent
+nonfiction
 nonillion
 nonintervention
 nonpolar
@@ -27778,6 +27793,7 @@ robed
 robes
 robin
 robins
+robocall
 robot
 robotic
 robotics
@@ -27820,6 +27836,7 @@ roister
 role
 roles
 roll
+rollbar
 rollcall
 rolled
 roller
@@ -33009,6 +33026,7 @@ tallying
 talmud
 talon
 talons
+tamari
 tame
 tamed
 tamely
@@ -33150,6 +33168,7 @@ tastiest
 tasting
 tastings
 tasty
+tatami
 tattered
 tatters
 tattle
@@ -33806,6 +33825,7 @@ tier
 tiered
 tiers
 ties
+tiff
 tiger
 tigerish
 tigers
@@ -34048,6 +34068,7 @@ tolling
 tolls
 toluene
 tomahawk
+tomatillo
 tomato
 tomb
 tombola
@@ -34061,7 +34082,7 @@ tome
 tomes
 tomorrow
 tomorrows
-tomtom
+tomtit
 tonal
 tonality
 tonally
@@ -35546,6 +35567,8 @@ untrusty
 untruth
 untruthful
 untruths
+untuck
+untucked
 untune
 unturned
 untutored
@@ -36429,6 +36452,7 @@ waned
 wanes
 waning
 wanly
+wanna
 want
 wanted
 wanting
@@ -37010,8 +37034,11 @@ wiggler
 wiggles
 wiggling
 wigs
+wigwag
+wigwagging
 wigwam
 wigwams
+wiki
 wild
 wildcat
 wilder

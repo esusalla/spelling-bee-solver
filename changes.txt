@@ -1,3 +1,23 @@
+# 2021-03-30: b, a, c, l, n, o, r
+	* Added: banc, barbacoa, bronc, cabana, carb, carbonara, carob, cornball, corncob, labor, robocall, rollbar
+	* Removed: arab
+
+# 2021-03-29: c, d, e, k, n, t, u
+	* Added: cuke, decedent, educe, educed, untuck, untucked
+	* Removed: deuced, duce
+
+# 2021-03-28: m, a, i, l, o, r, t
+	* Added: maillot, mitral, moratoria, tamari, tatami, tomatillo, tomtit
+	* Removed: malta, matt, milt, mort, tomtom
+
+# 2021-03-25: w, a, e, g, i, k, n
+	* Added: awing, gewgaw, wanna, wigwag, wigwagging, wiki
+	* Removed: 
+
+# 2021-03-24: i, c, f, n, o, t, u
+	* Added: confit, finito, intuit, nonfiction, tiff
+	* Removed: inuit
+
 # 2021-03-23: c, a, b, e, i, l, t
 	* Added: cabbie, cattail, celiac, celli, ciabatta, citable, eclat, electee, licit, tacet
 	* Removed: allelic, baltic, celtic
