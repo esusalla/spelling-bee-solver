@@ -1,3 +1,23 @@
+# 2021-04-04: u, c, g, i, l, n, o
+	* Added: cluing, glug, gulling, linguini, luging, oculi, unclogging, uncool
+	* Removed: gluon, iglu, nguni
+
+# 2021-04-03: o, d, e, i, j, n, t
+	* Added: dojo, endnote, tenoned, toted
+	* Removed: totted
+
+# 2021-04-02: a, c, e, h, i, m, n
+	* Added: anime, echinacea, mahimahi
+	* Removed: amine, anaemia, anaemic, chicane, heman, immanence, maine
+
+# 2021-04-01: p, a, g, h, o, r, t
+	* Added: aport, goop, gorp, grappa, paratha, photog, ragtop, taproot
+	* Removed: appro
+
+# 2021-03-31: e, a, b, k, l, n, o
+	* Added: alkane, alkene, anklebone, keno
+	* Removed: 
+
 # 2021-03-30: b, a, c, l, n, o, r
 	* Added: banc, barbacoa, bronc, cabana, carb, carbonara, carob, cornball, corncob, labor, robocall, rollbar
 	* Removed: arab

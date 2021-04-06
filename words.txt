@@ -853,7 +853,9 @@ alkalis
 alkalise
 alkaloid
 alkaloids
+alkane
 alkanes
+alkene
 alkyl
 allay
 allayed
@@ -1051,7 +1053,6 @@ amide
 amidships
 amidst
 amigo
-amine
 amines
 amino
 amiss
@@ -1110,8 +1111,6 @@ amusing
 anabolic
 anaconda
 anacondas
-anaemia
-anaemic
 anaesthesia
 anaesthetise
 anaesthetist
@@ -1206,6 +1205,7 @@ animating
 animation
 animations
 animator
+anime
 animism
 animist
 animists
@@ -1218,6 +1218,7 @@ aniseeds
 ankara
 ankh
 ankle
+anklebone
 ankles
 anklet
 anklets
@@ -1409,6 +1410,7 @@ apollo
 apologia
 apology
 apoplexy
+aport
 apostasy
 apostate
 apostates
@@ -1499,7 +1501,6 @@ apprehended
 apprise
 apprised
 apprising
-appro
 approach
 appropriate
 appropriation
@@ -5566,7 +5567,6 @@ chia
 chic
 chica
 chicago
-chicane
 chichi
 chick
 chicken
@@ -6113,6 +6113,7 @@ clued
 cluedup
 clueless
 clues
+cluing
 clumber
 clump
 clumped
@@ -9591,6 +9592,7 @@ dohs
 doily
 doing
 doings
+dojo
 doldrums
 dole
 doled
@@ -10294,6 +10296,7 @@ ecclesiastical
 echelon
 echelons
 echidna
+echinacea
 echo
 echoed
 echoic
@@ -10794,6 +10797,7 @@ endive
 endless
 endlessly
 endlessness
+endnote
 endocrine
 endogenous
 endorse
@@ -14203,10 +14207,10 @@ glued
 glueing
 glues
 gluey
+glug
 gluing
 glum
 glumly
-gluon
 glut
 glutamate
 gluten
@@ -14343,6 +14347,7 @@ googol
 goon
 goons
 goony
+goop
 goose
 gooseberries
 gooseberry
@@ -14367,6 +14372,7 @@ gorilla
 gorillas
 goring
 gormless
+gorp
 gorse
 gory
 gosh
@@ -14492,6 +14498,7 @@ graphed
 graphic
 graphs
 grapnel
+grappa
 grapple
 grappled
 grapples
@@ -14855,6 +14862,7 @@ gulleys
 gullibility
 gullible
 gullies
+gulling
 gulls
 gully
 gulp
@@ -15553,7 +15561,6 @@ helpmate
 helps
 helsinki
 helterskelter
-heman
 hemen
 hemisphere
 hemispheres
@@ -16368,7 +16375,6 @@ idyllic
 idyllically
 igloo
 igloos
-iglu
 igneous
 ignite
 ignited
@@ -16462,7 +16468,6 @@ imitations
 imitative
 imitator
 imitators
-immanence
 immanent
 immaterial
 immature
@@ -17971,6 +17976,7 @@ kennedy
 kennel
 kennelled
 kennels
+keno
 kentucky
 kenya
 kenyan
@@ -19050,6 +19056,7 @@ lingers
 lingo
 lingua
 lingual
+linguini
 linguist
 linguists
 liniment
@@ -19517,6 +19524,7 @@ luge
 luggage
 lugged
 lugging
+luging
 lugs
 luke
 lull
@@ -19709,6 +19717,7 @@ magpie
 magpies
 mags
 mahatma
+mahimahi
 mahogany
 maid
 maiden
@@ -19732,7 +19741,6 @@ maiming
 maimings
 maims
 main
-maine
 mainframe
 mainland
 mainline
@@ -21770,7 +21778,6 @@ newt
 newton
 newts
 next
-nguni
 ngunis
 niacin
 niagara
@@ -22240,6 +22247,7 @@ octopi
 octopus
 octopuses
 ocular
+oculi
 oculist
 odder
 oddest
@@ -23192,6 +23200,7 @@ parasitic
 parasitism
 parasol
 parasols
+paratha
 paratroop
 paratrooper
 paratroopers
@@ -23912,6 +23921,7 @@ phosphorus
 photic
 photo
 photocopy
+photog
 photograph
 photon
 photons
@@ -25875,6 +25885,7 @@ raging
 ragout
 rags
 ragtime
+ragtop
 ragwort
 raid
 raided
@@ -33104,6 +33115,7 @@ tappers
 tapping
 tappings
 taproom
+taproot
 taps
 taramasalata
 tarantula
@@ -33391,6 +33403,7 @@ tenfold
 tenners
 tennis
 tenon
+tenoned
 tenor
 tenors
 tens
@@ -34222,11 +34235,11 @@ totalling
 totally
 totals
 tote
+toted
 totem
 totemic
 totems
 tots
-totted
 totter
 tottered
 tottering
@@ -35127,6 +35140,7 @@ unclench
 unclenched
 uncles
 unclog
+unclogging
 unclouded
 uncoil
 uncoiling
@@ -35140,6 +35154,7 @@ unconscious
 unconsciousness
 unconvincing
 uncooked
+uncool
 uncounted
 uncouple
 uncouth
