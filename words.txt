@@ -355,6 +355,7 @@ adaptor
 adaptors
 adapts
 added
+addend
 addenda
 addendum
 adder
@@ -386,7 +387,6 @@ adduced
 adduces
 adducing
 adelaide
-aden
 adenine
 adenoid
 adenoids
@@ -511,7 +511,6 @@ advocacy
 advocate
 advocated
 adze
-aegina
 aegis
 aeolian
 aeon
@@ -1108,6 +1107,7 @@ amusement
 amusements
 amuses
 amusing
+amyl
 anabolic
 anaconda
 anacondas
@@ -1324,6 +1324,7 @@ anti
 antiaircraft
 antibiotic
 antic
+anticipant
 anticipate
 anticipating
 anticipation
@@ -3421,6 +3422,7 @@ blearyeyed
 bleat
 bleated
 bleats
+blech
 bled
 bleed
 bleeder
@@ -4825,6 +4827,7 @@ cannibal
 cannibals
 cannily
 canning
+cannoli
 cannon
 cannonball
 cannonballs
@@ -4838,6 +4841,7 @@ canoe
 canoed
 canoeing
 canoes
+canola
 canon
 canonical
 canonically
@@ -4889,7 +4893,6 @@ capered
 capers
 capes
 capillary
-capita
 capital
 capitalist
 capitalistic
@@ -5262,6 +5265,7 @@ cellists
 cello
 cells
 cellular
+cellule
 cellulite
 celluloid
 cellulose
@@ -5655,6 +5659,7 @@ chock
 chockablock
 chockfull
 chocks
+chocoholic
 chocolate
 choice
 choices
@@ -6048,7 +6053,6 @@ clog
 clogged
 clogging
 clogs
-clonal
 clone
 cloned
 clones
@@ -6319,6 +6323,7 @@ coitus
 coke
 cola
 colas
+colcannon
 cold
 coldblooded
 coldbloodedly
@@ -6330,6 +6335,7 @@ coldness
 colds
 coldwar
 coleslaw
+colic
 colitis
 collaborator
 collage
@@ -6355,6 +6361,7 @@ collective
 collector
 collectors
 collects
+colleen
 college
 colleges
 collegial
@@ -7158,6 +7165,7 @@ coughed
 coughing
 coughs
 could
+coulee
 couloir
 coulomb
 coulombs
@@ -7993,7 +8001,6 @@ dandelion
 dandies
 dandruff
 dandy
-dane
 danes
 dang
 danger
@@ -8109,7 +8116,6 @@ deactivated
 dead
 deadbeat
 deaden
-deadend
 deadened
 deadening
 deadens
@@ -8943,7 +8949,6 @@ dewy
 dexterity
 dextral
 dextrose
-dhow
 diabetes
 diabetic
 diabolic
@@ -9130,7 +9135,6 @@ diner
 diners
 dines
 ding
-dingdong
 dinged
 dinghies
 dinghy
@@ -9155,7 +9159,6 @@ dioptre
 diorama
 dioxide
 dioxides
-dioxin
 dioxins
 diploid
 diploma
@@ -9772,6 +9775,8 @@ dowse
 dowser
 dowsers
 dowsing
+doxing
+doxxing
 doyen
 doyenne
 doyens
@@ -10403,6 +10408,7 @@ efficiency
 efficient
 effigies
 effigy
+effluence
 effluent
 effluents
 effluvia
@@ -10415,6 +10421,7 @@ effulgent
 effusion
 effusions
 effusive
+egad
 egged
 eggheads
 egging
@@ -10926,6 +10933,7 @@ enmasse
 enmeshed
 enmities
 enmity
+ennead
 enneads
 ennoble
 ennobled
@@ -12030,6 +12038,7 @@ febrile
 february
 feckless
 fecklessness
+feculence
 fecund
 federal
 federally
@@ -13569,7 +13578,6 @@ gagged
 gagging
 gaggle
 gaggled
-gaging
 gags
 gagster
 gaiety
@@ -13805,6 +13813,7 @@ gawking
 gawky
 gawpin
 gayest
+gayly
 gays
 gaze
 gazebo
@@ -14009,6 +14018,7 @@ gilts
 gimcrack
 gimlet
 gimlets
+gimme
 gimmick
 gimmickry
 gimmicks
@@ -14019,6 +14029,7 @@ gingers
 gingery
 gingham
 gingivitis
+ginning
 gins
 ginseng
 gipsies
@@ -14172,6 +14183,8 @@ gloomier
 gloomily
 glooms
 gloomy
+gloopy
+gloppy
 gloried
 glories
 glorify
@@ -14348,6 +14361,7 @@ goon
 goons
 goony
 goop
+goopy
 goose
 gooseberries
 gooseberry
@@ -15055,6 +15069,7 @@ halve
 halved
 halves
 halving
+hamate
 hamburg
 hamlet
 hamlets
@@ -15389,6 +15404,7 @@ headwind
 headword
 heady
 heal
+healable
 healed
 healer
 healers
@@ -15494,6 +15510,7 @@ heedless
 heedlessly
 heedlessness
 heeds
+heehaw
 heel
 heeled
 heeling
@@ -15561,6 +15578,8 @@ helpmate
 helps
 helsinki
 helterskelter
+hematite
+heme
 hemen
 hemisphere
 hemispheres
@@ -15946,6 +15965,7 @@ hood
 hooded
 hoodlum
 hoodlums
+hoodoo
 hoods
 hoodwink
 hoof
@@ -16288,6 +16308,8 @@ hypotheses
 hypoxia
 hyssop
 hysteresis
+iamb
+iambi
 iambic
 iambus
 iberia
@@ -16625,6 +16647,7 @@ inanely
 inanimate
 inanities
 inanity
+inapt
 inaptly
 inattention
 inattentive
@@ -17030,6 +17053,7 @@ innate
 innately
 inner
 innie
+inning
 innings
 innkeeper
 innkeepers
@@ -17422,11 +17446,13 @@ involving
 inward
 inwards
 iodine
+iodizing
 ionic
 ionisation
 ionise
 ionised
 ionising
+ionizing
 ions
 iota
 iotas
@@ -17817,6 +17843,7 @@ joules
 journal
 journey
 journeyer
+journo
 joust
 jouster
 jousts
@@ -17866,6 +17893,7 @@ juicier
 juiciest
 juiciness
 juicy
+juju
 jukebox
 julep
 juleps
@@ -17897,7 +17925,6 @@ junket
 junkie
 junkies
 junks
-juno
 junta
 juntas
 jupiter
@@ -18064,6 +18091,7 @@ kilts
 kimono
 kinase
 kind
+kinda
 kinder
 kindest
 kindle
@@ -18300,6 +18328,7 @@ laggard
 laggards
 lagged
 lagging
+laggy
 lagoon
 lagoons
 lagos
@@ -18317,6 +18346,7 @@ laity
 lake
 lakes
 lakeside
+lallygag
 lama
 lamas
 lamb
@@ -18904,7 +18934,6 @@ licks
 licorice
 lidded
 lidless
-lido
 lids
 lied
 lieder
@@ -19023,7 +19052,6 @@ limpopo
 limps
 linage
 linchpin
-lincoln
 linden
 line
 lineage
@@ -19199,6 +19227,7 @@ lizards
 llama
 llamas
 llano
+loach
 load
 loadable
 loaded
@@ -19777,7 +19806,6 @@ malaise
 malaria
 malarial
 malawi
-malay
 malayan
 malays
 malaysia
@@ -19816,12 +19844,12 @@ mambas
 mamma
 mammal
 mammalian
+mammalogy
 mammals
 mammary
 mammon
 mammoth
 mammoths
-mammy
 manacle
 manacled
 manacles
@@ -19957,6 +19985,7 @@ marginalia
 margins
 mariachi
 marijuana
+marimba
 marina
 marinade
 marinara
@@ -20163,7 +20192,6 @@ maximises
 maximising
 maxims
 maximum
-maya
 mayas
 maybe
 mayday
@@ -20171,6 +20199,7 @@ maydays
 mayfly
 mayhap
 mayhem
+mayo
 mayor
 mayoral
 mayoralty
@@ -20282,6 +20311,7 @@ meetings
 meets
 mega
 megabyte
+megahit
 megastar
 megaton
 megawatt
@@ -20442,6 +20472,7 @@ meter
 metered
 metering
 meters
+meth
 methane
 methionine
 method
@@ -20483,6 +20514,7 @@ microns
 microscopic
 midair
 midas
+midbrain
 midday
 middays
 midden
@@ -20509,6 +20541,7 @@ midline
 midmorning
 midmost
 midnight
+midrib
 midribs
 midriff
 midship
@@ -20958,6 +20991,7 @@ momentous
 moments
 momentum
 momma
+mommy
 moms
 monaco
 monad
@@ -21487,12 +21521,11 @@ nameplate
 names
 namesake
 namesakes
-namibia
-namibian
 naming
 namings
 nana
 nankeen
+nannied
 nannies
 nanny
 nanometre
@@ -21509,7 +21542,6 @@ napoleon
 napped
 nappies
 napping
-nappy
 naps
 narc
 narcissism
@@ -21683,6 +21715,7 @@ neither
 nematode
 nemesis
 nene
+neocon
 neon
 neonatal
 neonate
@@ -21851,6 +21884,7 @@ nipping
 nipple
 nipples
 nippon
+nippy
 nips
 nirvana
 nite
@@ -21862,7 +21896,7 @@ nitrogen
 nitrous
 nits
 nitwit
-nixon
+nixing
 nobility
 noble
 nobleman
@@ -21912,9 +21946,12 @@ nominee
 nominees
 nonagon
 nonagonal
+nonalcoholic
 nonbelief
+nonce
 nonchalance
 nonchalant
+nonclinical
 none
 nonentities
 nonentity
@@ -21925,6 +21962,7 @@ nonexistent
 nonfiction
 nonillion
 nonintervention
+nonlocal
 nonpolar
 nonrandom
 nonsense
@@ -21935,6 +21973,7 @@ nonsmoking
 nonviolence
 nonviolent
 noob
+noodging
 noodle
 noodled
 noodles
@@ -22041,6 +22080,7 @@ nuances
 nuclear
 nuclei
 nucleic
+nucleon
 nucleus
 nude
 nudeness
@@ -22285,7 +22325,6 @@ offal
 offbeat
 offcut
 offcuts
-offence
 offences
 offend
 offended
@@ -22324,6 +22363,7 @@ ogres
 ogrish
 ohmic
 ohms
+oilcan
 oilcloth
 oiled
 oiler
@@ -22909,6 +22949,7 @@ oxidise
 oxidised
 oxidiser
 oxidising
+oxidizing
 oxtail
 oxtails
 oxygen
@@ -23126,10 +23167,12 @@ pantile
 panting
 pantry
 pants
+panty
 panzer
 papa
 papacy
 papal
+papally
 paparazzi
 papas
 papaw
@@ -23453,6 +23496,7 @@ paying
 payload
 payloads
 payment
+payola
 payphone
 payroll
 payrolls
@@ -23951,6 +23995,7 @@ piazza
 piazzas
 pica
 picasso
+piccata
 piccolo
 pick
 pickaxe
@@ -24054,6 +24099,7 @@ pimpled
 pimples
 pimply
 pimps
+pinata
 pinball
 pincer
 pincered
@@ -24092,6 +24138,7 @@ pinky
 pinnacle
 pinned
 pinning
+pinny
 pinpoint
 pinpointed
 pinpointing
@@ -24105,7 +24152,6 @@ pint
 pints
 pinup
 pinups
-piny
 pion
 pioneer
 pioneered
@@ -36418,6 +36464,7 @@ wakening
 wakens
 wakes
 waking
+wale
 wales
 walk
 walkable
@@ -37065,6 +37112,7 @@ wildlife
 wildly
 wildness
 wilds
+wildwood
 wile
 wiles
 wilful
@@ -37311,13 +37359,13 @@ woollike
 woolliness
 woolly
 wools
-wooly
 woos
 woot
 word
 wordage
 worded
 wordier
+wordily
 wording
 wordless
 words
@@ -37633,6 +37681,7 @@ zest
 zesty
 zeta
 zeus
+zigging
 zigzag
 zigzagged
 zigzagging
@@ -37641,7 +37690,8 @@ zillion
 zillions
 zimbabwe
 zinc
-zion
+zing
+zinging
 zionism
 zionist
 zionists

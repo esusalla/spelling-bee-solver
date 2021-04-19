@@ -1,3 +1,55 @@
+# 2021-04-17: u, a, j, l, n, o, r
+	* Added: journo, juju
+	* Removed: juno
+
+# 2021-04-16: d, h, i, l, n, o, w
+	* Added: hoodoo
+	* Removed: dhow, lido
+
+# 2021-04-15: i, d, g, n, o, x, z
+	* Added: doxing, doxxing, ginning, inning, iodizing, ionizing, nixing, noodging, oxidizing, zigging, zing, zinging
+	* Removed: dingdong, dioxin, nixon, zion
+
+# 2021-04-14: l, a, c, h, i, n, o
+	* Added: cannoli, canola, chocoholic, colcannon, colic, loach, nonalcoholic, nonclinical, nonlocal, oilcan
+	* Removed: clonal, lincoln
+
+# 2021-04-13: e, a, b, c, h, l, w
+	* Added: blech, healable, heehaw, wale
+	* Removed: 
+
+# 2021-04-12: w, d, i, l, o, r, y
+	* Added: wildwood, wordily
+	* Removed: wooly
+
+# 2021-04-11: e, c, f, l, n, o, u
+	* Added: cellule, colleen, coulee, effluence, feculence, neocon, nonce, nucleon
+	* Removed: offence
+
+# 2021-04-10: a, d, e, g, i, k, n
+	* Added: addend, egad, ennead, kinda, nannied
+	* Removed: aden, aegina, dane, deadend, gaging
+
+# 2021-04-09: m, a, b, d, i, n, r
+	* Added: iamb, iambi, marimba, midbrain, midrib
+	* Removed: namibia, namibian
+
+# 2021-04-08: b, e, f, i, l, n, x
+	* Added: 
+	* Removed: 
+
+# 2021-04-07: y, a, g, l, m, o, p
+	* Added: amyl, gayly, gloopy, gloppy, goopy, laggy, lallygag, mammalogy, mayo, mommy, papally, payola
+	* Removed: malay, mammy, maya
+
+# 2021-04-06: e, a, g, h, i, m, t
+	* Added: gimme, hamate, hematite, heme, megahit, meth
+	* Removed: 
+
+# 2021-04-05: p, a, c, i, n, t, y
+	* Added: anticipant, inapt, nippy, panty, piccata, pinata, pinny
+	* Removed: capita, nappy, piny
+
 # 2021-04-04: u, c, g, i, l, n, o
 	* Added: cluing, glug, gulling, linguini, luging, oculi, unclogging, uncool
 	* Removed: gluon, iglu, nguni
