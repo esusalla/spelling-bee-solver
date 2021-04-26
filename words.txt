@@ -20,6 +20,7 @@ abates
 abating
 abattoir
 abattoirs
+abbacy
 abbess
 abbey
 abbeys
@@ -36,6 +37,7 @@ abeam
 aberdeen
 aberrant
 abet
+abetment
 abets
 abetted
 abetting
@@ -84,6 +86,7 @@ abounded
 abounds
 about
 above
+abracadabra
 abraded
 abraham
 abrasion
@@ -625,7 +628,6 @@ agenda
 agendas
 agent
 agents
-ageold
 ages
 aggravate
 aggravated
@@ -641,6 +643,7 @@ aggressors
 aggrieved
 aghast
 agile
+agilely
 agiler
 agility
 aging
@@ -707,6 +710,7 @@ airbus
 aircraft
 aircrew
 aircrews
+airdrop
 aire
 aired
 airfield
@@ -759,7 +763,6 @@ aitches
 ajar
 akimbo
 akin
-alabama
 alabaster
 alacarte
 alack
@@ -1395,6 +1398,7 @@ aphasia
 aphid
 aphids
 apian
+apiarian
 apiaries
 apiarist
 apiary
@@ -1512,7 +1516,6 @@ approved
 approves
 apricot
 april
-apriori
 apron
 aprons
 apropos
@@ -1544,7 +1547,6 @@ arabic
 arable
 arabs
 arachnid
-arak
 araks
 ararat
 arbiter
@@ -2550,7 +2552,6 @@ barker
 barkers
 barking
 barks
-barky
 barley
 barmaid
 barmaids
@@ -2679,8 +2680,6 @@ bathwater
 batik
 batiks
 bating
-batman
-batmen
 baton
 batons
 bats
@@ -2688,6 +2687,7 @@ batsman
 batsmen
 battalion
 batted
+battement
 batten
 battened
 battening
@@ -3001,6 +3001,7 @@ belittling
 bell
 belladonna
 bellbottoms
+bellboy
 belle
 belled
 belles
@@ -3112,7 +3113,6 @@ bests
 bestseller
 bestsellers
 beta
-betel
 betide
 betimes
 betoken
@@ -3153,6 +3153,7 @@ bewilder
 bewildered
 bewitch
 beyond
+bialy
 biannual
 bias
 biased
@@ -3174,6 +3175,7 @@ bicker
 bicycle
 bicycled
 bicycles
+bicyclic
 bicycling
 bidden
 bidder
@@ -3346,6 +3348,7 @@ bizarre
 blab
 blabbed
 blabber
+blabby
 blabs
 black
 blackball
@@ -3366,6 +3369,7 @@ blade
 bladed
 blades
 blah
+blam
 blame
 blameable
 blamed
@@ -3806,6 +3810,7 @@ boosting
 boosts
 boot
 booted
+bootee
 bootees
 booth
 booths
@@ -3972,6 +3977,7 @@ braces
 bracing
 bracken
 bracket
+brad
 bradawl
 bradycardia
 brag
@@ -4820,7 +4826,6 @@ canings
 canna
 cannabis
 canned
-cannel
 cannery
 cannes
 cannibal
@@ -7282,6 +7287,7 @@ crackles
 crackly
 crackpot
 cracks
+cracky
 cradle
 cradled
 cradles
@@ -7649,6 +7655,7 @@ crutch
 crutches
 crux
 cruxes
+crybaby
 crying
 cryings
 cryostat
@@ -7945,7 +7952,6 @@ dairyman
 dais
 daisies
 daisy
-dakar
 dakoits
 dale
 dales
@@ -8094,7 +8100,6 @@ daydream
 daydreams
 daylit
 daylong
-dayold
 days
 daytime
 daze
@@ -9580,17 +9585,18 @@ doggedly
 doggedness
 doggerel
 dogging
+doggo
 doggy
+dogleg
+doglegged
 doglike
 dogma
 dogmas
-dogood
 dogooder
 dogooders
 dogs
 dogsbody
 dogtag
-dogy
 dohs
 doily
 doing
@@ -10020,6 +10026,7 @@ drunken
 drunkenness
 drunker
 drunks
+dryad
 dryer
 dryers
 dryeyed
@@ -10381,6 +10388,7 @@ educed
 eels
 eelworm
 eelworms
+eely
 eerie
 eerier
 eeriest
@@ -10597,6 +10605,7 @@ emaciate
 emaciated
 email
 emailed
+emanant
 emanate
 emanated
 emanates
@@ -11721,6 +11730,7 @@ exwife
 exwives
 eyeball
 eyeballs
+eyebolt
 eyebrow
 eyebrows
 eyed
@@ -13582,7 +13592,6 @@ gags
 gagster
 gaiety
 gaijin
-gaily
 gain
 gained
 gainer
@@ -13687,7 +13696,6 @@ gangways
 gannet
 gannets
 gantry
-gaoled
 gaoler
 gaolers
 gaols
@@ -13919,6 +13927,7 @@ genuine
 genuinely
 genuineness
 genus
+geode
 geodesic
 geodesics
 geographer
@@ -14306,6 +14315,7 @@ goer
 goers
 goes
 gofer
+goggle
 goggled
 goggles
 goggling
@@ -14353,6 +14363,8 @@ goofed
 goofing
 goofs
 goofy
+google
+googled
 googlies
 googling
 googly
@@ -16453,6 +16465,7 @@ illusions
 illusive
 illusory
 illustrious
+illy
 image
 imaged
 imagery
@@ -18571,11 +18584,11 @@ laxer
 laxity
 laxness
 layabout
-layby
 laybys
 layer
 layered
 layers
+layette
 laying
 layman
 laymen
@@ -18909,7 +18922,6 @@ libretti
 librettist
 librettists
 libretto
-libya
 libyan
 libyans
 lice
@@ -19019,6 +19031,7 @@ lima
 limb
 limber
 limbers
+limbic
 limbless
 limbo
 limbs
@@ -19333,6 +19346,7 @@ lofts
 lofty
 logbook
 logbooks
+loge
 logged
 logger
 loggers
@@ -19367,6 +19381,7 @@ lollipop
 lollipops
 lollop
 lollygag
+lollygagged
 lollygagging
 londoner
 lone
@@ -20212,7 +20227,6 @@ mazier
 maziest
 mazurka
 mazy
-mbabane
 mead
 meadow
 meadows
@@ -21883,7 +21897,6 @@ nipper
 nipping
 nipple
 nipples
-nippon
 nippy
 nips
 nirvana
@@ -21963,6 +21976,7 @@ nonfiction
 nonillion
 nonintervention
 nonlocal
+nonpaid
 nonpolar
 nonrandom
 nonsense
@@ -22355,6 +22369,7 @@ offset
 offshoot
 offshore
 often
+ogee
 ogle
 ogled
 ogling
@@ -22390,7 +22405,6 @@ okay
 okayed
 okays
 oklahoma
-oldage
 olden
 older
 oldest
@@ -23130,7 +23144,6 @@ pandas
 pander
 panders
 pandit
-pandora
 pane
 paned
 panel
@@ -23205,7 +23218,9 @@ paradigm
 parading
 paradise
 paradises
+parador
 paradox
+paradrop
 paraffin
 paragon
 paragons
@@ -24152,7 +24167,6 @@ pint
 pints
 pinup
 pinups
-pion
 pioneer
 pioneered
 pioneering
@@ -24783,6 +24797,7 @@ posy
 potable
 potash
 potato
+potbelly
 potency
 potent
 potentate
@@ -26063,6 +26078,7 @@ rapier
 rapiers
 rapine
 raping
+rapini
 rapist
 rapists
 rapped
@@ -27744,6 +27760,7 @@ rioters
 rioting
 riotous
 riots
+riparian
 ripcord
 ripe
 ripely
@@ -33389,7 +33406,6 @@ telling
 tellingly
 tells
 telltale
-telly
 telnet
 temerity
 temper
@@ -37539,7 +37555,6 @@ xrays
 yacht
 yachts
 yaks
-yale
 yalelock
 yams
 yank
@@ -37610,7 +37625,7 @@ yielding
 yields
 yippee
 yodel
-yodelled
+yodeled
 yodeller
 yodels
 yoga

@@ -1,3 +1,35 @@
+# 2021-04-25: o, a, d, e, g, l, y
+	* Added: doggo, dogleg, doglegged, geode, goggle, google, googled, loge, lollygagged, ogee, yodeled
+	* Removed: ageold, dayold, dogood, dogy, gaoled, oldage, yodelled
+
+# 2021-04-24: m, a, b, e, k, n, t
+	* Added: abetment, battement, emanant
+	* Removed: batman, batmen, mbabane
+
+# 2021-04-23: l, a, c, e, n, o, w
+	* Added: 
+	* Removed: cannel
+
+# 2021-04-22: e, b, l, o, p, t, y
+	* Added: bellboy, bootee, eyebolt, potbelly
+	* Removed: betel
+
+# 2021-04-21: b, a, c, i, l, m, y
+	* Added: abbacy, bialy, bicyclic, blabby, blam, limbic
+	* Removed: alabama, layby, libya
+
+# 2021-04-20: r, a, b, c, d, k, y
+	* Added: abracadabra, brad, cracky, crybaby, dryad
+	* Removed: arak, barky, dakar
+
+# 2021-04-19: y, a, e, g, i, l, t
+	* Added: agilely, eely, illy, layette
+	* Removed: gaily, telly, yale
+
+# 2021-04-18: p, a, d, i, n, o, r
+	* Added: airdrop, apiarian, nonpaid, parador, paradrop, rapini, riparian
+	* Removed: apriori, nippon, pandora, pion
+
 # 2021-04-17: u, a, j, l, n, o, r
 	* Added: journo, juju
 	* Removed: juno
