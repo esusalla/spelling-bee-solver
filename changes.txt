@@ -1,3 +1,83 @@
+# 2021-05-15: n, a, d, e, l, q, u
+	* Added: dunned, endue, landau, queened, unequaled, unlade, unladed
+	* Removed: eden, luanda, unequalled
+
+# 2021-05-14: n, a, c, d, i, m, y
+	* Added: adamancy, candyman
+	* Removed: 
+
+# 2021-05-13: m, a, c, e, h, l, y
+	* Added: chyme, hammy
+	* Removed: 
+
+# 2021-05-12: c, a, j, k, o, p, t
+	* Added: capo, cockapoo, cooktop, tock
+	* Removed: 
+
+# 2021-05-11: b, a, c, e, l, t, x
+	* Added: abettal, battleax, beatable, betel, exactable, tabla
+	* Removed: 
+
+# 2021-05-10: m, b, d, e, h, l, u
+	* Added: bumblebee, bummed, dumbed, dumdum, helmed, melded, memed
+	* Removed: 
+
+# 2021-05-09: l, b, g, i, n, o, w
+	* Added: bling, blobbing, blog, blogging, bobbling, gilling, longbow
+	* Removed: golliwog, wiling
+
+# 2021-05-08: y, a, l, m, n, o, r
+	* Added: amorally, armory, arroyo, molly, mononym, moony, nary, nonroyal
+	* Removed: anonym, lyra, malayan, mary, nyala, romany
+
+# 2021-05-07: i, c, l, o, r, t, v
+	* Added: coir, croci, ocotillo, roti, rototill, toric, torii, tricolor, tricot
+	* Removed: oolitic, tiro
+
+# 2021-05-06: m, g, i, n, p, t, u
+	* Added: gimp, gimping, mung, muumuu, umping
+	* Removed: 
+
+# 2021-05-05: o, a, d, i, m, n, t
+	* Added: amnio, nondominant
+	* Removed: monition, naomi
+
+# 2021-05-04: t, a, f, g, i, r, y
+	* Added: agita, atria, attar, fart, frat, fratty, frittata, grift, ragtag, raita, ratatat, taffy, taiga, trig
+	* Removed: ararat, tarty
+
+# 2021-05-03: t, a, c, e, i, p, v
+	* Added: appetitive, capacitate, pepita, pipet, tippet, titivate
+	* Removed: capacitive, capitate, epitap, pieta, taipei
+
+# 2021-05-02: p, c, h, i, m, n, o
+	* Added: cioppino, comp, homophonic, phonic
+	* Removed: chopin, impi
+
+# 2021-05-01: y, a, e, m, n, p, t
+	* Added: netty, yenta, yente
+	* Removed: yemen
+
+# 2021-04-30: n, a, e, l, t, u, x
+	* Added: extant, lantana, lateen, laten, lunulae, tauten, ulnae
+	* Removed: annexe, atlanta, etna, texan
+
+# 2021-04-29: c, a, g, i, k, n, t
+	* Added: canting, catkin, incanting, knickknack
+	* Removed: 
+
+# 2021-04-28: m, a, c, e, h, i, l
+	* Added: camellia, clime, emcee, lamella, lamellae, malic
+	* Removed: alchemical, chemic, mealie
+
+# 2021-04-27: a, i, l, m, o, p, t
+	* Added: appall, lipoma, palapa, pampa, papilloma, taillamp
+	* Removed: apollo, appal, lamplit, lapp, pallmall, palmtop
+
+# 2021-04-26: n, c, f, i, m, o, r
+	* Added: moonroof, noir, noncom, omicron
+	* Removed: mormon
+
 # 2021-04-25: o, a, d, e, g, l, y
 	* Added: doggo, dogleg, doglegged, geode, goggle, google, googled, loge, lollygagged, ogee, yodeled
 	* Removed: ageold, dayold, dogood, dogy, gaoled, oldage, yodelled

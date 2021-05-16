@@ -73,13 +73,6 @@ if __name__ == "__main__":
     try:
         game_data = get_game_data()
     except:
-        with open(f"{BASE_PATH}/changes.txt", "r+") as outfile:
-            previous = outfile.read()
-            outfile.seek(0, 0)
-
-            outfile.write("# Unable to retrieve game data\n\n")
-            outfile.write(previous)
-
         sys.exit(1)
 
     with open(f"{BASE_PATH}/words.txt") as infile:
