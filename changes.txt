@@ -1,3 +1,103 @@
+# 2021-06-09: f, a, c, e, g, i, n
+	* Added: affiance, affiancing, caffeine, fanfic, fifing
+	* Removed: affine
+
+# 2021-06-08: m, a, b, c, n, o, t
+	* Added: camo, combo, mambo, noncombatant
+	* Removed: abomb, atombomb, cabman, conman, monaco
+
+# 2021-06-07: d, a, j, n, o, r, u
+	* Added: runaround
+	* Removed: ardour, donjuan, odour, ruanda
+
+# 2021-06-06: y, a, e, h, n, o, p
+	* Added: anyhoo, hooey, hoppy, hypo, yahoo
+	* Removed: hyaena, paeony, phoney
+
+# 2021-06-05: l, c, e, i, m, o, p
+	* Added: clomp, clop, oleic, ollie, pellicle, pommel
+	* Removed: limpopo
+
+# 2021-06-04: d, a, e, g, o, p, y
+	* Added: dapped, deadeye, deeded, epode, gapped, peapod, peed, pepped, pogoed, pooped, yapped
+	* Removed: dday, dopy, payed, podded, podgy, popeyed
+
+# 2021-06-03: n, c, e, i, k, l, t
+	* Added: lenience, telekinetic
+	* Removed: licence
+
+# 2021-06-02: b, e, g, i, n, o, y
+	* Added: bigeye, biggie, bingeing, bogeying, boing, bongo, boning, boogie, boogieing, gibe, goby, nonbeing
+	* Removed: bigben, bogy, boney, gobi
+
+# 2021-06-01: i, c, l, n, o, r, u
+	* Added: councilor, runic, unicolor, unironic, uric
+	* Removed: couloir, councillor
+
+# 2021-05-31: t, d, e, g, h, i, l
+	* Added: delt, gelt, legit, lilted, tided, tithed
+	* Removed: giltedged, hight
+
+# 2021-05-30: b, e, h, i, l, t, y
+	* Added: hillbilly
+	* Removed: bitty
+
+# 2021-05-29: a, e, g, l, o, t, v
+	* Added: aglet, galette, galoot, gelato, geotag, gotta
+	* Removed: legatee, volga
+
+# 2021-05-28: n, a, d, e, h, o, p
+	* Added: daphne, deadpanned, hennaed, pend, pended
+	* Removed: headon
+
+# 2021-05-27: f, a, i, l, n, p, u
+	* Added: fulfill, pilaf
+	* Removed: fulfil, lapful
+
+# 2021-05-26: n, c, d, i, o, t, u
+	* Added: codon, condo, dunno, udon
+	* Removed: 
+
+# 2021-05-25: t, a, c, h, i, r, u
+	* Added: arhat
+	* Removed: arthur, haiti, ruth, tahiti, tahr, thai, urticaria
+
+# 2021-05-24: i, a, c, l, o, p, t
+	* Added: capicola, coattail, lipo, politico, tailcoat
+	* Removed: 
+
+# 2021-05-23: e, b, l, n, o, t, v
+	* Added: bento, botnet
+	* Removed: novelle
+
+# 2021-05-22: w, a, d, g, i, n, r
+	* Added: wingding
+	* Removed: darwin, rwanda, wadi, waring
+
+# 2021-05-21: m, a, j, l, o, r, y
+	* Added: majorly, marjoram, mojo
+	* Removed: 
+
+# 2021-05-20: t, h, i, l, m, n, o
+	* Added: litho, tilth
+	* Removed: 
+
+# 2021-05-19: i, a, f, n, o, t, x
+	* Added: affiant, anoxia, antifa, antitoxin, ataxia, fontina
+	* Removed: infanta
+
+# 2021-05-18: a, c, j, l, o, r, u
+	* Added: arco, caul, corolla, raja
+	* Removed: caracal, jarl, rollcall
+
+# 2021-05-17: c, a, b, e, h, l, y
+	* Added: bellyache, yecch, yech
+	* Removed: bach
+
+# 2021-05-16: a, f, g, i, n, u, w
+	* Added: guffawing, naif
+	* Removed: 
+
 # 2021-05-15: n, a, d, e, l, q, u
 	* Added: dunned, endue, landau, queened, unequaled, unlade, unladed
 	* Removed: eden, luanda, unequalled
