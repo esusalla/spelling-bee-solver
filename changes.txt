@@ -1,3 +1,171 @@
+# 2021-09-22: i, c, l, n, t, v, y
+	* Added: civvy, incivil, incivility, licitly, linty, tinily, viny
+	* Removed: liny, tinnily
+
+# 2021-09-21: a, e, f, l, o, p, w
+	* Added: appellee, pawl
+	* Removed: 
+
+# 2021-08-26: u, a, d, h, n, o, t
+	* Added: nunhood, unhood
+	* Removed: uhuh
+
+# 2021-07-20: r, a, c, i, p, v, y
+	* Added: carpi, crappy
+	* Removed: capri
+
+# 2021-07-19: i, f, g, l, n, o, w
+	* Added: gowning, offing, wino, wolfing, woofing, wowing
+	* Removed: inflowing
+
+# 2021-07-18: f, a, c, e, i, l, m
+	* Added: fecal, femme, flimflam, icefall, malefic, miff
+	* Removed: faecal, felicia, filmic
+
+# 2021-07-17: y, a, c, h, i, n, t
+	* Added: chanty, hiya
+	* Removed: 
+
+# 2021-07-16: l, d, e, g, h, n, t
+	* Added: geld, gelded, gentled, lede
+	* Removed: 
+
+# 2021-07-15: l, c, e, i, m, n, t
+	* Added: clementine
+	* Removed: 
+
+# 2021-07-14: d, e, f, i, o, t, x
+	* Added: detoxed, detoxified, doff, doxed, doxx, doxxed, offed, texted, toxified
+	* Removed: foetid
+
+# 2021-07-13: o, a, i, p, r, t, y
+	* Added: trattoria, tyro
+	* Removed: propitiatory, tory
+
+# 2021-07-12: n, c, d, e, k, l, u
+	* Added: clunk, clunked, dunk, keened, kenneled, knelled, lunk, nuked
+	* Removed: kennelled
+
+# 2021-07-11: h, e, g, l, o, t, y
+	* Added: eyehole, holey, thole
+	* Removed: hogg
+
+# 2021-07-10: t, a, c, i, l, n, u
+	* Added: cultic
+	* Removed: atlantic, calcutta, italian, latin
+
+# 2021-07-09: m, b, i, l, o, t, y
+	* Added: boomy
+	* Removed: bimbo, bloomy
+
+# 2021-07-07: h, g, i, l, n, r, t
+	* Added: hilling, hinging, nightlight
+	* Removed: 
+
+# 2021-07-06: t, b, e, l, m, n, o
+	* Added: blotto, boomlet, ennoblement
+	* Removed: 
+
+# 2021-07-05: o, g, i, m, n, r, u
+	* Added: gringo, minoring, rooming, rumor, rumoring, unmoor, unmooring
+	* Removed: giro, rigour, rumour
+
+# 2021-07-04: i, b, k, l, n, o, t
+	* Added: biotin, bobolink, boink, bonito, inkblot, kilobit, obit, toolkit
+	* Removed: 
+
+# 2021-07-03: n, a, d, e, i, p, x
+	* Added: nixed, pinniped
+	* Removed: 
+
+# 2021-07-02: n, b, e, g, m, o, y
+	* Added: eggnog, moneymen
+	* Removed: 
+
+# 2021-07-01: v, d, e, i, n, t, u
+	* Added: devein, deveined, divvied, ivied, uninventive, unitive, vended
+	* Removed: unintuitive, uninvented
+
+# 2021-06-30: b, a, h, i, l, t, u
+	* Added: bubba, tibial, tubal
+	* Removed: 
+
+# 2021-06-29: p, e, i, l, n, t, y
+	* Added: lippy, pettily, tenpin, tiepin, tintype, yipe, yippie
+	* Removed: 
+
+# 2021-06-28: t, b, e, i, l, n, u
+	* Added: bunt, butte, inutile, tubule, unbelt, unbuilt, utile
+	* Removed: builtin
+
+# 2021-06-27: u, d, e, i, p, t, z
+	* Added: deputize, deputized, duded, duetted, etude, puttied, putz, putzed, tutted
+	* Removed: etui
+
+# 2021-06-26: r, a, c, k, t, w, y
+	* Added: craw, karat, kart
+	* Removed: 
+
+# 2021-06-25: f, d, e, g, l, n, u
+	* Added: defund, defunded, duffle, fueled, fugu, funneled, guff
+	* Removed: fuelled, funnelled, lungful
+
+# 2021-06-24: o, a, c, i, m, t, x
+	* Added: coxa
+	* Removed: 
+
+# 2021-06-23: p, a, h, o, r, t, y
+	* Added: harpy, pyro, ropy
+	* Removed: porphyry
+
+# 2021-06-22: b, a, d, i, l, o, r
+	* Added: adobo, airball, arborio, bailor, barrio, biradial, drib, railbird
+	* Removed: adlib, arabia, brail
+
+# 2021-06-21: r, a, d, k, l, w, y
+	* Added: drawly, drywall, rawly
+	* Removed: kraal
+
+# 2021-06-20: c, d, e, n, o, v, y
+	* Added: coed, convoyed, covey
+	* Removed: cony
+
+# 2021-06-19: m, a, c, g, h, i, n
+	* Added: chimichanga, gamin, hamming, machining, macing, manga
+	* Removed: michigan
+
+# 2021-06-18: t, a, i, l, m, r, y
+	* Added: lariat, maritally, martially, rattail, rattly, trimly
+	* Removed: martyry
+
+# 2021-06-16: t, a, c, d, i, r, y
+	* Added: acridity, catty, diacritic, dicta, didact
+	* Removed: triadic
+
+# 2021-06-15: y, a, b, n, o, t, u
+	* Added: attaboy, aunty, banyan, batboy, bayou, nubby, oaty, yuan
+	* Removed: bunyan, tannoy, toby, tunny
+
+# 2021-06-14: l, a, b, d, f, o, r
+	* Added: dolor, larboard, oddball, offload
+	* Removed: 
+
+# 2021-06-13: t, e, h, m, n, o, w
+	* Added: emote, hometown, monte, mote, towhee, townhome, tween
+	* Removed: 
+
+# 2021-06-12: t, a, d, e, i, m, y
+	* Added: dammit, demit, demitted, dimity, ideate, ideated, metadata, tatted
+	* Removed: 
+
+# 2021-06-11: n, a, c, h, l, t, u
+	* Added: natch, nuthatch, unclutch, unhat, unlatch
+	* Removed: 
+
+# 2021-06-10: o, a, b, h, m, r, t
+	* Added: athrob, barroom, haboob, harbor, hoorah, hora, motorboat, tabor, taro, troth
+	* Removed: rota, roto, thor
+
 # 2021-06-09: f, a, c, e, g, i, n
 	* Added: affiance, affiancing, caffeine, fanfic, fifing
 	* Removed: affine
