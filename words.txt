@@ -268,6 +268,7 @@ acidify
 acidity
 acidly
 acids
+acidy
 acing
 acme
 acne
@@ -597,7 +598,6 @@ afloat
 afoot
 afraid
 afresh
-africa
 african
 africans
 afro
@@ -722,6 +722,7 @@ aire
 aired
 airfield
 airflow
+airfoil
 airforce
 airframe
 airframes
@@ -1057,7 +1058,6 @@ amiably
 amicable
 amicably
 amid
-amide
 amidships
 amidst
 amigo
@@ -1316,7 +1316,9 @@ anteater
 anteaters
 antecedent
 antecedents
+anted
 antedate
+antedated
 antedates
 antedating
 antelope
@@ -1634,6 +1636,7 @@ arid
 aridity
 aridness
 aright
+aril
 arise
 arisen
 arises
@@ -2008,6 +2011,7 @@ attacker
 attackers
 attacking
 attacks
+attagirl
 attain
 attainable
 attained
@@ -2026,6 +2030,7 @@ attendances
 attendant
 attendants
 attended
+attendee
 attendees
 attender
 attenders
@@ -2108,7 +2113,6 @@ aural
 aurally
 auras
 aurevoir
-auric
 auriculas
 aurora
 aurorae
@@ -2353,6 +2357,7 @@ baggage
 baggages
 bagged
 bagger
+baggie
 baggier
 baggiest
 bagging
@@ -5558,6 +5563,7 @@ cheeking
 cheeks
 cheeky
 cheep
+cheeped
 cheeping
 cheer
 cheered
@@ -5896,6 +5902,7 @@ civilities
 civility
 civilly
 civvy
+clack
 clacking
 clad
 cladding
@@ -6477,6 +6484,7 @@ colonnade
 colonnaded
 colons
 colony
+colorific
 colossal
 colossally
 colossus
@@ -7572,6 +7580,7 @@ croakier
 croaks
 croatia
 croatian
+croc
 crochet
 crocheted
 crochets
@@ -7582,7 +7591,6 @@ crocks
 crocodile
 crocus
 crocuses
-croft
 crofter
 crofters
 crofts
@@ -7837,13 +7845,13 @@ curer
 cures
 curfew
 curfews
-curia
 curial
 curie
 curies
 curing
 curio
 curious
+curium
 curl
 curled
 curlers
@@ -7911,6 +7919,7 @@ cuteness
 cutest
 cuticle
 cuticles
+cutie
 cutlass
 cutlasses
 cutler
@@ -8093,7 +8102,6 @@ daniel
 danish
 dank
 dankest
-dante
 danube
 danzig
 daphne
@@ -9265,6 +9273,7 @@ dipoles
 dipped
 dipper
 dipping
+dippy
 dips
 dipstick
 dipsticks
@@ -10032,7 +10041,6 @@ drinkers
 drinking
 drinks
 drip
-dripdry
 dripped
 dripping
 drippy
@@ -10054,6 +10062,7 @@ drizzled
 drizzles
 drizzling
 drizzly
+droid
 droll
 droller
 drollery
@@ -10292,7 +10301,6 @@ dwindled
 dwindles
 dwindling
 dyad
-dyadic
 dyed
 dyeing
 dyeings
@@ -10540,6 +10548,7 @@ egged
 eggheads
 egging
 eggnog
+eggplant
 eggs
 eggshell
 eggshells
@@ -11271,7 +11280,6 @@ epitaxial
 epitaxy
 epithelial
 epithet
-epithetic
 epithets
 epitome
 epitomise
@@ -11477,7 +11485,6 @@ euro
 europe
 european
 eurydice
-eutectic
 evacuate
 evacuated
 evacuee
@@ -11829,7 +11836,6 @@ extrovert
 extroverts
 extrude
 extruded
-exudate
 exude
 exuded
 exudes
@@ -12046,11 +12052,11 @@ farmland
 farms
 farmyard
 farmyards
-faroff
 farout
 farrago
 farrier
 farriers
+farro
 farrow
 fart
 farther
@@ -12311,6 +12317,7 @@ fetter
 fettered
 fetters
 fettle
+fettuccine
 fetus
 feud
 feudal
@@ -12489,7 +12496,6 @@ finery
 fines
 finesse
 finest
-finetune
 finetuned
 finetunes
 finetuning
@@ -12972,6 +12978,7 @@ foamy
 fobbed
 fobbing
 fobs
+focaccia
 focal
 focally
 foci
@@ -13015,6 +13022,7 @@ folding
 folds
 foliage
 foliate
+folic
 folio
 folk
 folkart
@@ -13105,6 +13113,7 @@ footway
 footwear
 footwork
 fops
+fora
 forage
 foraged
 foragers
@@ -13728,6 +13737,7 @@ gaiters
 gaits
 gala
 galactic
+galangal
 galas
 galaxies
 galaxy
@@ -13768,7 +13778,6 @@ galoshes
 gals
 galvanic
 galvanising
-gambia
 gambian
 gambit
 gambits
@@ -13816,7 +13825,6 @@ gangster
 gangsters
 gangway
 gangways
-gannet
 gannets
 gantry
 gaoler
@@ -14118,7 +14126,6 @@ gibber
 gibbered
 gibbering
 gibberish
-gibbet
 gibbets
 gibbon
 gibbons
@@ -14820,6 +14827,7 @@ grinned
 grinner
 grinning
 grins
+griot
 grip
 gripe
 griped
@@ -14829,6 +14837,7 @@ gripped
 gripper
 grippers
 gripping
+grippy
 grips
 grislier
 grisliest
@@ -15054,6 +15063,7 @@ gunners
 gunnery
 gunning
 gunpoint
+gunport
 guns
 gunship
 gunships
@@ -16525,7 +16535,6 @@ ideals
 ideas
 ideate
 ideated
-idem
 identified
 identifier
 identifies
@@ -18410,6 +18419,7 @@ koala
 koalas
 koan
 kohl
+kola
 kongo
 kook
 kookaburra
@@ -19364,6 +19374,7 @@ litigants
 litigate
 litigating
 litigation
+litigator
 litigious
 litmus
 litotes
@@ -19859,6 +19870,7 @@ lyrics
 lyrist
 lysine
 macabre
+macadamia
 macaque
 macaques
 macaroni
@@ -20500,6 +20512,7 @@ meeting
 meetings
 meets
 mega
+megabit
 megabyte
 megahit
 megastar
@@ -21843,6 +21856,7 @@ nears
 nearside
 neat
 neaten
+neatened
 neatening
 neatens
 neater
@@ -22097,6 +22111,7 @@ nitpicking
 nitrate
 nitrates
 nitric
+nitro
 nitrogen
 nitrous
 nits
@@ -22176,6 +22191,7 @@ nonintervention
 nonlocal
 nonpaid
 nonpolar
+nonprint
 nonrandom
 nonroyal
 nonsense
@@ -22598,7 +22614,6 @@ oiliness
 oiling
 oilman
 oilmen
-oilrig
 oils
 oily
 oink
@@ -22877,6 +22892,7 @@ osteoporosis
 ostler
 ostlers
 ostrich
+otalgia
 other
 otherness
 others
@@ -22968,6 +22984,7 @@ outpointing
 outpoll
 outpost
 outposts
+outpour
 output
 outputs
 outputting
@@ -24372,6 +24389,7 @@ pinned
 pinning
 pinniped
 pinny
+pinot
 pinpoint
 pinpointed
 pinpointing
@@ -24382,6 +24400,7 @@ pins
 pinstripe
 pinstripes
 pint
+pinto
 pints
 pinup
 pinups
@@ -24422,6 +24441,7 @@ pirated
 pirates
 piratical
 pirating
+pirogi
 pirouette
 pisa
 pistol
@@ -25340,6 +25360,8 @@ priming
 primitive
 primly
 primness
+primo
+primp
 primrose
 primroses
 primus
@@ -27869,7 +27891,6 @@ rhythmic
 rhythms
 rial
 rials
-rialto
 ribald
 ribaldry
 ribbed
@@ -27920,6 +27941,7 @@ rife
 riff
 riffle
 riffled
+riffraff
 riffs
 rifle
 rifled
@@ -28237,6 +28259,7 @@ rotatory
 rote
 rotgut
 roti
+rotini
 rotor
 rotors
 rototill
@@ -33494,6 +33517,7 @@ taunting
 taunts
 taut
 tauten
+tautened
 tauter
 tautest
 tautly
@@ -33506,6 +33530,7 @@ tavernas
 taverns
 tawdry
 tawny
+taxa
 taxable
 taxation
 taxed
@@ -33570,6 +33595,7 @@ teatime
 teatimes
 teats
 tech
+techie
 technician
 tectonic
 tectonics
@@ -33643,6 +33669,8 @@ tells
 telltale
 telnet
 temerity
+temp
+tempeh
 temper
 tempera
 temperament
@@ -33671,7 +33699,6 @@ tenacity
 tenancies
 tenancy
 tenant
-tenanted
 tenantry
 tenants
 tench
@@ -34235,7 +34262,6 @@ tinniest
 tinnitus
 tinny
 tinopener
-tinpot
 tins
 tinsel
 tinsels
@@ -34513,8 +34539,10 @@ torsion
 torsions
 torso
 tort
+tortilla
 tortoise
 tortoises
+tortoni
 torts
 tortuous
 tortuously
@@ -34862,6 +34890,7 @@ tricksters
 tricky
 tricolor
 tricolour
+tricorn
 tricot
 tricycle
 trident
@@ -34938,6 +34967,7 @@ tristan
 trite
 triteness
 tritium
+triton
 triumph
 trivia
 trivial
@@ -35081,6 +35111,7 @@ tucks
 tues
 tuesday
 tuesdays
+tuffet
 tuft
 tufted
 tufting
@@ -35392,7 +35423,6 @@ unassuaged
 unassuming
 unattained
 unattended
-unattenuated
 unaudited
 unavailing
 unavenged
@@ -35485,12 +35515,12 @@ uncover
 uncross
 unction
 unctuous
+uncuff
 uncured
 uncurled
 uncut
 undamaged
 undated
-undaunted
 undead
 undeceived
 undecided
@@ -36007,7 +36037,6 @@ upriver
 uproar
 uproarious
 uproars
-uproo
 uproot
 uprooted
 uproots
@@ -37304,8 +37333,10 @@ whitish
 whittle
 whittled
 whittling
+whiz
 whizkids
 whizz
+whizzing
 whizzkid
 whoa
 whoever

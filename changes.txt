@@ -1,3 +1,75 @@
+# 2021-10-14: a, d, e, n, t, u, x
+	* Added: anted, antedated, attendee, neatened, tautened, taxa
+	* Removed: dante, exudate, tenanted, unattenuated, undaunted
+
+# 2021-10-13: i, m, n, o, p, r, t
+	* Added: nonprint, pinot, pinto, primo, primp
+	* Removed: tinpot
+
+# 2021-10-12: c, d, e, h, i, p, t
+	* Added: cheeped, techie
+	* Removed: epithetic
+
+# 2021-10-11: f, a, c, i, l, o, r
+	* Added: airfoil, colorific, farro, focaccia, folic, fora, riffraff
+	* Removed: africa, faroff
+
+# 2021-10-10: i, a, g, l, o, r, t
+	* Added: aril, attagirl, griot, litigator, otalgia, tortilla
+	* Removed: oilrig, rialto
+
+# 2021-10-09: g, a, e, l, n, p, t
+	* Added: eggplant, galangal
+	* Removed: gannet
+
+# 2021-10-08: o, c, f, i, n, r, t
+	* Added: croc, nitro, rotini, tortoni, tricorn, triton
+	* Removed: croft
+
+# 2021-10-07: r, g, n, o, p, t, u
+	* Added: gunport, outpour
+	* Removed: uproo
+
+# 2021-10-06: t, a, c, d, i, l, w
+	* Added: 
+	* Removed: 
+
+# 2021-10-05: k, a, c, i, l, o, t
+	* Added: clack, kola
+	* Removed: 
+
+# 2021-10-04: i, a, c, d, e, m, y
+	* Added: acidy, macadamia
+	* Removed: amide, dyadic, idem
+
+# 2021-10-03: i, d, g, o, p, r, y
+	* Added: dippy, droid, grippy, pirogi
+	* Removed: dripdry
+
+# 2021-09-28: o, c, d, e, i, j, n
+	* Added: 
+	* Removed: 
+
+# 2021-09-27: t, a, e, h, m, p, y
+	* Added: temp, tempeh
+	* Removed: 
+
+# 2021-09-26: u, c, e, f, i, n, t
+	* Added: cutie, fettuccine, tuffet, uncuff
+	* Removed: eutectic, finetune
+
+# 2021-09-25: i, a, b, e, g, m, t
+	* Added: baggie, megabit
+	* Removed: gambia, gibbet
+
+# 2021-09-24: h, e, g, i, n, w, z
+	* Added: whiz, whizzing
+	* Removed: 
+
+# 2021-09-23: i, a, c, m, r, t, u
+	* Added: curium
+	* Removed: auric, curia
+
 # 2021-09-22: i, c, l, n, t, v, y
 	* Added: civvy, incivil, incivility, licitly, linty, tinily, viny
 	* Removed: liny, tinnily
