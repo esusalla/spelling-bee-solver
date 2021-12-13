@@ -1,3 +1,227 @@
+# 2021-12-11: u, a, e, f, h, l, t
+	* Added: 
+	* Removed: 
+
+# 2021-12-10: b, a, g, l, n, o, t
+	* Added: longboat, nanobot
+	* Removed: gabon, tobago
+
+# 2021-12-09: c, d, e, h, l, n, u
+	* Added: celled
+	* Removed: chunnel
+
+# 2021-12-08: y, a, b, l, o, r, t
+	* Added: 
+	* Removed: taylor
+
+# 2021-12-07: o, a, l, n, p, r, u
+	* Added: parlor, parol
+	* Removed: parlour
+
+# 2021-12-06: w, d, e, i, l, m, n
+	* Added: mewed, mewl, mewled, windmilled
+	* Removed: 
+
+# 2021-12-05: h, c, e, n, t, u, y
+	* Added: techy
+	* Removed: tench
+
+# 2021-12-04: m, e, g, i, n, t, z
+	* Added: itemize, itemizing, meming, meting, meze, mezze, minimize, minimizing, mizzen
+	* Removed: gemini
+
+# 2021-12-03: a, b, d, o, r, t, u
+	* Added: burrata, tabard
+	* Removed: arbour, bart, rabat
+
+# 2021-12-02: n, a, h, m, o, p, t
+	* Added: manhattan, tampon
+	* Removed: naphtha
+
+# 2021-12-01: i, b, g, o, r, t, y
+	* Added: ribbit, ribby
+	* Removed: brit
+
+# 2021-11-30: h, d, g, i, n, o, t
+	* Added: dhoti, godhood, hooding, hotdogging
+	* Removed: hotting
+
+# 2021-11-28: g, a, e, l, u, v, y
+	* Added: gulag
+	* Removed: gaul, gulley
+
+# 2021-11-27: d, a, g, i, n, o, t
+	* Added: 
+	* Removed: dogtag, donga
+
+# 2021-11-26: b, a, c, g, i, k, n
+	* Added: babka, cabbing
+	* Removed: 
+
+# 2021-11-25: e, a, h, m, n, o, p
+	* Added: apemen, penman
+	* Removed: hemen, penname
+
+# 2021-11-24: u, e, l, n, o, p, t
+	* Added: putout, tuneup, unopen, unpen
+	* Removed: neptune, popup, punnet
+
+# 2021-11-23: f, a, d, e, i, t, x
+	* Added: defat, defatted
+	* Removed: fatted
+
+# 2021-11-22: n, c, f, i, o, t, u
+	* Added: 
+	* Removed: 
+
+# 2021-11-21: n, c, g, i, o, u, v
+	* Added: cocooning, conning, ungiving, voguing
+	* Removed: congo
+
+# 2021-11-20: p, e, f, g, i, o, t
+	* Added: pettifog, pfft, potpie
+	* Removed: 
+
+# 2021-11-19: r, a, f, i, l, m, y
+	* Added: riyal
+	* Removed: frailly
+
+# 2021-11-18: b, d, e, h, l, m, u
+	* Added: lube, lubed
+	* Removed: 
+
+# 2021-11-17: i, a, d, h, l, n, y
+	* Added: dandily
+	* Removed: aladdin
+
+# 2021-11-16: g, e, l, m, o, t, y
+	* Added: gemology, glom, golem, otology
+	* Removed: yegg
+
+# 2021-11-15: r, a, b, c, l, n, o
+	* Added: color
+	* Removed: 
+
+# 2021-11-14: d, a, l, m, o, r, u
+	* Added: doula, drumroll, durum, maraud, modulo, mudroom
+	* Removed: duomo, ludo, mould
+
+# 2021-11-13: h, d, e, m, o, t, u
+	* Added: doeth, doth, hued
+	* Removed: mouthtomouth
+
+# 2021-11-12: y, a, j, l, m, o, r
+	* Added: 
+	* Removed: 
+
+# 2021-11-11: m, c, i, l, n, o, t
+	* Added: 
+	* Removed: 
+
+# 2021-11-10: l, d, e, n, o, t, w
+	* Added: letdown, tootled, toweled, towelette, tweedle, tweedled, welted
+	* Removed: toledo, towelled, welltodo
+
+# 2021-11-09: t, a, h, o, r, w, y
+	* Added: athwart, hortatory, thataway, worrywart, wroth
+	* Removed: 
+
+# 2021-11-08: p, e, i, l, m, n, t
+	* Added: impenitent, penmen
+	* Removed: pelmet
+
+# 2021-11-07: m, c, d, e, l, o, y
+	* Added: demoed, doomy, emceed, modeled, molded, mollycoddle, mollycoddled
+	* Removed: modelled
+
+# 2021-11-06: l, a, d, n, r, u, y
+	* Added: annularly, dryland
+	* Removed: 
+
+# 2021-11-05: c, a, d, e, t, v, x
+	* Added: cava, exacta, exec
+	* Removed: cade
+
+# 2021-11-04: c, a, e, g, k, m, o
+	* Added: gamecock
+	* Removed: 
+
+# 2021-11-03: n, e, g, h, o, t, u
+	* Added: 
+	* Removed: 
+
+# 2021-11-02: c, a, b, e, h, k, l
+	* Added: callback, checkable
+	* Removed: hackle
+
+# 2021-11-01: d, a, c, i, n, o, t
+	* Added: condonation
+	* Removed: indicant
+
+# 2021-10-31: n, a, c, i, o, r, z
+	* Added: arnica, czarina, narco, ocarina, rancor, zinnia, zircon, zirconia
+	* Removed: arizona, nazi, racoon
+
+# 2021-10-30: h, c, g, i, n, o, u
+	* Added: chignon, chinning, chino, cinching, conch, gnocchi, hiccoughing, honcho, unhinging, unhung
+	* Removed: 
+
+# 2021-10-29: t, g, i, l, r, u, y
+	* Added: grittily, rutty, yurt
+	* Removed: 
+
+# 2021-10-28: a, b, l, m, o, v, y
+	* Added: ballboy, lovably, movably
+	* Removed: bombay, malva
+
+# 2021-10-27: h, a, d, e, l, m, t
+	* Added: hammed, lathed, meathead, metalhead
+	* Removed: 
+
+# 2021-10-26: u, a, c, i, n, r, t
+	* Added: unitarian
+	* Removed: nurturant, turin
+
+# 2021-10-25: t, a, c, i, m, n, y
+	* Added: 
+	* Removed: 
+
+# 2021-10-23: a, d, e, h, i, n, p
+	* Added: deadhead, deadheaded, headpin, pinheaded
+	* Removed: 
+
+# 2021-10-22: i, d, e, f, h, m, u
+	* Added: dehumidified, humidified, miffed
+	* Removed: dummied
+
+# 2021-10-21: i, a, d, l, t, v, y
+	* Added: daylily, diddly, dillydally, divvy, idyl
+	* Removed: david, viva
+
+# 2021-10-20: a, c, d, i, m, o, t
+	* Added: macadam, octad
+	* Removed: 
+
+# 2021-10-19: f, a, c, e, l, t, u
+	* Added: effectuate
+	* Removed: fatcat
+
+# 2021-10-18: i, b, g, n, o, u, x
+	* Added: inbox, nubbin, unboxing
+	* Removed: 
+
+# 2021-10-17: u, c, d, e, i, n, t
+	* Added: inductee, nudie, untuned
+	* Removed: untended
+
+# 2021-10-16: d, a, l, m, n, t, y
+	* Added: mandala
+	* Removed: landman
+
+# 2021-10-15: h, a, c, d, i, n, r
+	* Added: chard
+	* Removed: handcar
+
 # 2021-10-14: a, d, e, n, t, u, x
 	* Added: anted, antedated, attendee, neatened, tautened, taxa
 	* Removed: dante, exudate, tenanted, unattenuated, undaunted
